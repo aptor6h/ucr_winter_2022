@@ -1,0 +1,1156 @@
+Start_Date,End_Date,Crime,Current,Prior,Ratio,28Day_Current,28Day_Prior,28Day_Ratio,YTD_Current,YTD_Prior,YTD_Ratio,2YR,5YR,22YR,Volume_Number,Number_number,Mayor,Commissioner,Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,1,-100.0,2,1,100.0,100.0,0.0,100.0,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,0,***.*,4,3,33.3,***.*,100.0,0.0,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Robbery,1,0,***.*,3,1,200.0,19,28,-32.1,26.7,-13.6,-70.3,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,1,-100.0,2,4,-50.0,46,53,-13.2,2.2,-6.1,-56.6,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Burglary,1,1,0.0,3,7,-57.1,59,75,-21.3,-31.4,-43.3,-82.0,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,2,4,-50.0,13,15,-13.3,144,169,-14.8,-27.6,-0.7,-38.5,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,1,2,-50.0,20,20,0.0,-31.0,-45.9,-97.1,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,TOTAL,4,6,-33.33,23,30,-23.33,294,349,-15.76,-21.60,-18.56,-79.47,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,7,10,-30.0,27,44,-38.6,342,346,-1.2,-21.6,-35.2,***.*,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,1,6,-83.3,3,19,-84.2,158,156,1.3,-20.2,-26.2,***.*,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,0,1,-100.0,14,12,16.7,133.3,100.0,***.*,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,1,-100.0,0,5,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,1,-100.0,0,4,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,123rd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,4,2,100.0,33.3,100.0,33.3,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,0,***.*,6,3,100.0,50.0,-66.7,-66.7,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Robbery,4,1,300.0,10,1,900.0,81,61,32.8,44.6,-27.0,-73.1,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,1,300.0,9,8,12.5,111,112,-0.9,3.7,-17.2,-62.4,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Burglary,2,0,***.*,13,6,116.7,137,128,7.0,-23.9,-31.8,-89.5,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,6,7,-14.3,32,19,68.4,314,298,5.4,6.1,-20.9,-61.4,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,5,4,25.0,65,43,51.2,22.6,-42.5,-97.6,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,TOTAL,17,9,88.89,70,38,84.21,718,647,10.97,2.72,-26.43,-86.81,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Housing,1,0,***.*,3,2,50.0,32,36,-11.1,60.0,39.1,***.*,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,14,21,-33.3,54,65,-16.9,663,683,-2.9,-16.8,-59.8,***.*,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,10,8,25.0,26,30,-13.3,381,323,18.0,27.4,-27.3,***.*,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,6,0,***.*,31,29,6.9,82.4,55.0,***.*,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,2,3,-33.3,-33.3,100.0,0.0,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,2,3,-33.3,-33.3,100.0,0.0,23,50,Bill de Blasio,James P. O誰eill,122nd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,9,0,***.*,200.0,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Rape,0,2,-100.0,1,2,-50.0,19,14,35.7,46.2,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,2,0.0,13,11,18.2,116,132,-12.1,-19.4,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,6,-66.7,7,19,-63.2,182,238,-23.5,-15.0,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Burglary,2,3,-33.3,20,16,25.0,132,162,-18.5,2.3,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,9,9,0.0,38,25,52.0,379,415,-8.7,-3.1,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,4,5,-20.0,62,73,-15.1,1.6,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,TOTAL,16,22,-27.27,83,78,6.41,899,"1,034",-13.06,-5.86,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,2,1,100.0,24,26,-7.7,71.4,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,17,29,-41.4,86,102,-15.7,"1,241","1,246",-0.4,-15.9,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,9,8,12.5,39,35,11.4,417,477,-12.6,-16.1,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,4,1,300.0,25,23,8.7,-19.4,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,1,0,***.*,12,10,20.0,-25.0,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,0,***.*,10,10,0.0,-23.1,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,121th Precinct
+  12/12/2016,  12/18/2016,Murder,0,1,-100.0,1,2,-50.0,5,11,-54.5,-28.6,-58.3,-75.0,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,0,***.*,17,20,-15.0,-41.4,-56.4,-69.1,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Robbery,3,2,50.0,18,15,20.0,198,219,-9.6,5.3,-28.5,-79.8,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,5,3,66.7,26,18,44.4,294,255,15.3,14.4,3.2,-60.8,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,3,-100.0,6,12,-50.0,158,181,-12.7,-17.7,-47.9,-90.5,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,10,10,0.0,30,29,3.4,335,351,-4.6,-9.7,-17.7,-41.6,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,3,-66.7,5,8,-37.5,92,75,22.7,39.4,-51.1,-92.9,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,TOTAL,19,22,-13.64,87,84,3.57,"1,099","1,112",-1.17,-0.99,-27.27,-79.41,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Housing,0,1,-100.0,5,5,0.0,65,49,32.7,54.8,38.3,***.*,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,28,22,27.3,74,72,2.8,981,939,4.5,3.9,-33.1,***.*,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,12,20,-40.0,46,55,-16.4,741,683,8.5,-5.1,-38.8,***.*,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,1,4,-75.0,34,46,-26.1,-2.9,-22.7,***.*,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,2,-100.0,3,5,-40.0,23,29,-20.7,0.0,-11.5,-78.7,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,3,3,0.0,23,25,-8.0,9.5,-4.2,-76.0,23,50,Bill de Blasio,James P. O誰eill,120th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,1,-100.0,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,4,4,0.0,38,33,15.2,31.0,22.6,15.2,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Robbery,6,13,-53.8,25,30,-16.7,337,316,6.6,3.1,1.2,-73.2,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,3,6,-50.0,26,21,23.8,369,353,4.5,7.9,16.4,-11.7,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Burglary,5,2,150.0,21,12,75.0,239,223,7.2,-26.9,-16.4,-87.6,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,9,11,-18.2,50,59,-15.3,676,667,1.3,4.8,35.2,-51.1,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,0,***.*,9,9,0.0,170,140,21.4,10.4,-28.0,-92.1,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,TOTAL,25,32,-21.88,135,135,0.00,"1,829","1,733",5.54,0.00,7.21,-74.59,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,3,4,-25.0,29,44,-34.1,-17.1,3.6,***.*,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,12,27,-55.6,61,66,-7.6,908,969,-6.3,-17.8,-17.5,***.*,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,29,11,163.6,88,70,25.7,936,908,3.1,-5.2,5.5,***.*,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,1,0.0,8,9,-11.1,80,74,8.1,56.9,33.3,***.*,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,2,-100.0,0,3,-100.0,5,11,-54.5,-44.4,-37.5,-91.7,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,0,2,-100.0,5,10,-50.0,-16.7,-16.7,-91.1,23,50,Bill de Blasio,James P. O誰eill,115th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,6,-66.7,0.0,-77.8,-92.3,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,6,-83.3,31,19,63.2,34.8,93.8,-29.5,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Robbery,8,5,60.0,19,23,-17.4,206,222,-7.2,-18.3,-35.8,-87.5,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,9,-77.8,11,25,-56.0,305,311,-1.9,10.9,14.2,-58.3,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Burglary,5,2,150.0,20,14,42.9,244,301,-18.9,-44.3,-48.4,-89.2,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,19,13,46.2,70,57,22.8,788,675,16.7,14.9,24.7,-27.9,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,7,2,250.0,18,6,200.0,189,182,3.8,2.2,-25.9,-92.7,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,TOTAL,41,31,32.26,139,131,6.11,"1,765","1,716",2.86,-5.16,-10.54,-79.00,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Transit,2,1,100.0,4,4,0.0,37,31,19.4,60.9,12.1,***.*,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Housing,0,1,-100.0,8,11,-27.3,156,162,-3.7,-11.9,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,28,43,-34.9,132,154,-14.3,"1,578","1,608",-1.9,-3.2,9.7,***.*,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,20,15,33.3,76,60,26.7,912,868,5.1,3.8,6.9,***.*,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,2,0.0,4,8,-50.0,50,59,-15.3,-23.1,-21.9,***.*,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,1,-100.0,6,16,-62.5,-75.0,-72.7,-86.4,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,1,-100.0,6,13,-53.8,-66.7,-66.7,-85.7,23,50,Bill de Blasio,James P. O誰eill,114th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,9,9,0.0,0.0,-52.6,-76.9,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,3,-66.7,23,17,35.3,35.3,-8.0,-69.7,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Robbery,4,6,-33.3,13,13,0.0,188,221,-14.9,-23.3,-44.9,-83.2,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,6,9,-33.3,26,31,-16.1,407,387,5.2,-10.9,19.4,-44.9,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Burglary,5,4,25.0,18,20,-10.0,189,250,-24.4,-43.1,-53.6,-82.9,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,11,18.2,40,60,-33.3,454,525,-13.5,-17.3,-29.5,-88.2,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,5,-60.0,7,12,-41.7,93,132,-29.5,-56.9,-64.2,-94.8,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,TOTAL,30,35,-14.29,105,139,-24.46,"1,363","1,541",-11.55,-25.32,-33.09,-84.31,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Housing,0,1,-100.0,0,1,-100.0,14,12,16.7,133.3,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,17,18,-5.6,74,60,23.3,908,925,-1.8,-7.3,-13.6,***.*,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,15,8,87.5,50,41,22.0,659,717,-8.1,-7.8,-15.4,***.*,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,2,1,100.0,36,28,28.6,12.5,20.0,***.*,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,2,0,***.*,44,26,69.2,10.0,-24.1,-71.8,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,0,***.*,39,22,77.3,30.0,-18.8,-72.1,23,50,Bill de Blasio,James P. O誰eill,113th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,1,1,0.0,***.*,0.0,-80.0,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,0,1,-100.0,7,6,16.7,0.0,75.0,-30.0,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,2,0.0,5,4,25.0,47,43,9.3,-9.6,-60.2,-92.6,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,3,-66.7,9,4,125.0,49,55,-10.9,-14.0,-14.0,-60.2,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Burglary,3,0,***.*,8,5,60.0,79,107,-26.2,-28.8,-39.2,-94.2,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,7,8,-12.5,28,32,-12.5,363,331,9.7,-9.0,-2.9,-63.1,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,4,8,-50.0,51,87,-41.4,-48.0,-48.0,-98.4,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,TOTAL,13,14,-7.14,54,54,0.00,597,630,-5.24,-17.54,-23.66,-90.64,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,1,0.0,22,23,-4.3,-43.6,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,1,-100.0,2,4,-50.0,-81.8,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,17,20,-15.0,71,69,2.9,779,945,-17.6,-29.5,-18.8,***.*,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,2,2,0.0,14,10,40.0,163,189,-13.8,-19.7,-22.4,***.*,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,2,0,***.*,24,12,100.0,71.4,50.0,***.*,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,112th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,0,***.*,***.*,***.*,-50.0,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,4,7,-42.9,300.0,-33.3,-71.4,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Robbery,0,2,-100.0,4,4,0.0,44,54,-18.5,2.3,-45.0,-86.5,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,0,***.*,3,6,-50.0,70,58,20.7,7.7,37.3,-45.7,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Burglary,2,4,-50.0,18,19,-5.3,175,189,-7.4,-18.2,-29.4,-81.5,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,11,9,22.2,41,34,20.6,472,391,20.7,8.5,31.1,-15.3,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,5,-60.0,10,8,25.0,61,71,-14.1,-34.4,-54.8,-98.1,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,TOTAL,15,20,-25.00,76,72,5.56,828,770,7.53,-2.70,-5.91,-84.02,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,15,7,114.3,39,32,21.9,499,378,32.0,11.9,12.9,***.*,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,5,5,0.0,16,14,14.3,171,129,32.6,46.2,1.2,***.*,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,0,1,-100.0,12,11,9.1,50.0,-25.0,***.*,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,0,2,-100.0,***.*,***.*,-100.0,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,***.*,-100.0,23,50,Bill de Blasio,James P. O誰eill,111th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,2,1,100.0,-75.0,-50.0,-93.1,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,3,3,0.0,29,25,16.0,11.5,7.4,-14.7,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Robbery,3,4,-25.0,20,16,25.0,249,266,-6.4,-9.1,-29.5,-83.4,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,3,12,-75.0,14,25,-44.0,270,292,-7.5,-5.3,9.8,-43.5,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Burglary,4,5,-20.0,25,12,108.3,218,208,4.8,-30.6,-20.4,-89.6,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,12,11,9.1,54,53,1.9,652,567,15.0,17.1,21.4,-47.4,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,4,-100.0,9,9,0.0,96,99,-3.0,-8.6,-31.9,-95.6,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,TOTAL,23,36,-36.11,126,118,6.78,"1,516","1,458",3.98,-3.38,-4.17,-80.00,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Transit,1,1,0.0,1,4,-75.0,30,24,25.0,-6.3,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,28,34,-17.6,112,152,-26.3,"1,604","1,731",-7.3,-13.0,-9.5,***.*,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,5,13,-61.5,46,54,-14.8,634,633,0.2,-14.0,1.0,***.*,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,9,2,350.0,65,60,8.3,6.6,8.3,***.*,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,1,-100.0,6,6,0.0,-25.0,0.0,-90.2,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,1,-100.0,6,5,20.0,20.0,20.0,-88.9,23,50,Bill de Blasio,James P. O誰eill,110th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,3,-33.3,-60.0,-71.4,-81.8,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,2,1,100.0,15,20,-25.0,-25.0,-11.8,-54.5,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Robbery,9,2,350.0,18,18,0.0,208,182,14.3,20.9,1.5,-82.3,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,6,7,-14.3,35,21,66.7,247,233,6.0,-2.8,16.0,-28.0,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Burglary,4,8,-50.0,35,25,40.0,313,313,0.0,-30.0,-33.1,-86.5,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,18,24,-25.0,82,82,0.0,914,904,1.1,6.4,37.0,-31.2,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,3,2,50.0,7,8,-12.5,155,162,-4.3,-27.9,-45.2,-96.1,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,TOTAL,41,43,-4.65,179,155,15.48,"1,854","1,817",2.04,-5.98,-0.32,-79.86,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Transit,4,0,***.*,8,2,300.0,31,21,47.6,19.2,416.7,***.*,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,1,0,***.*,16,14,14.3,14.3,33.3,***.*,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,34,29,17.2,152,129,17.8,"1,789","1,786",0.2,4.4,16.9,***.*,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,10,10,0.0,59,51,15.7,636,602,5.6,-14.2,-8.2,***.*,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,3,1,200.0,5,6,-16.7,37,51,-27.5,5.7,-7.5,***.*,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,2,4,-50.0,-60.0,-33.3,-92.3,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,2,4,-50.0,-60.0,-33.3,-90.9,23,50,Bill de Blasio,James P. O誰eill,109th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,1,-100.0,3,2,50.0,50.0,50.0,-70.0,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,0,2,-100.0,15,18,-16.7,7.1,-11.8,25.0,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,4,-50.0,7,12,-41.7,99,115,-13.9,-36.5,-46.8,-90.0,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,4,0.0,10,7,42.9,129,150,-14.0,-20.4,4.0,-57.7,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Burglary,3,4,-25.0,13,9,44.4,141,194,-27.3,-37.9,-43.1,-90.6,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,10,9,11.1,46,36,27.8,516,436,18.3,-5.1,14.9,-42.0,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,1,0.0,8,7,14.3,114,145,-21.4,-16.2,-40.6,-94.4,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,TOTAL,20,23,-13.04,84,74,13.51,"1,017","1,060",-4.06,-18.05,-16.50,-82.31,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Transit,2,2,0.0,6,6,0.0,63,46,37.0,-3.1,28.6,***.*,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,13,11,18.2,46,45,2.2,684,709,-3.5,-16.1,-25.0,***.*,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,13,6,116.7,40,27,48.1,395,436,-9.4,-6.4,-19.7,***.*,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,3,-100.0,2,4,-50.0,37,51,-27.5,-30.2,-30.2,***.*,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,1,-100.0,2,3,-33.3,-60.0,100.0,-85.7,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,1,-100.0,2,3,-33.3,0.0,100.0,-85.7,23,50,Bill de Blasio,James P. O誰eill,108th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,3,3,0.0,200.0,-25.0,-50.0,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Rape,1,1,0.0,2,2,0.0,19,8,137.5,-20.8,46.2,-36.7,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Robbery,8,3,166.7,26,11,136.4,172,209,-17.7,-9.0,-31.2,-82.8,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,2,0.0,5,6,-16.7,103,110,-6.4,-11.2,5.1,-55.2,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Burglary,1,0,***.*,18,16,12.5,177,149,18.8,4.7,-34.4,-87.1,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,15,-13.3,46,42,9.5,484,450,7.6,9.0,10.8,-18.2,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,4,-75.0,9,12,-25.0,140,150,-6.7,1.4,-37.8,-97.1,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,TOTAL,26,25,4.00,106,89,19.10,"1,098","1,079",1.76,1.57,-15.34,-86.28,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,6,-100.0,21,39,-46.2,-30.0,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Housing,0,1,-100.0,4,4,0.0,51,47,8.5,4.1,54.5,***.*,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,13,24,-45.8,55,82,-32.9,778,805,-3.4,-0.6,-17.8,***.*,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,6,9,-33.3,19,31,-38.7,292,319,-8.5,-18.0,-25.9,***.*,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,3,1,200.0,6,3,100.0,33,32,3.1,32.0,-15.4,***.*,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,5,7,-28.6,25.0,0.0,-50.0,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,5,6,-16.7,25.0,0.0,-50.0,23,50,Bill de Blasio,James P. O誰eill,107th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,3,0,***.*,9,3,200.0,350.0,125.0,-57.1,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,0,2,-100.0,15,14,7.1,-37.5,-16.7,-51.6,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Robbery,3,5,-40.0,8,17,-52.9,202,251,-19.5,-21.1,-20.5,-76.3,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,4,-50.0,13,17,-23.5,219,203,7.9,-6.8,50.0,-44.6,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Burglary,3,9,-66.7,15,23,-34.8,205,220,-6.8,-16.3,-30.7,-82.7,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,11,18.2,46,56,-17.9,516,575,-10.3,-0.2,45.4,-10.4,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,4,3,33.3,13,20,-35.0,120,237,-49.4,-47.4,-62.3,-96.3,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,TOTAL,25,33,-24.24,98,135,-27.41,"1,286","1,503",-14.44,-14.66,-7.55,-79.49,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Transit,0,4,-100.0,0,5,-100.0,20,27,-25.9,-41.2,-23.1,***.*,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,11,23,-52.2,62,73,-15.1,809,828,-2.3,-9.1,21.1,***.*,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,1,7,-85.7,17,23,-26.1,388,423,-8.3,-14.3,-18.5,***.*,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,1,0.0,1,2,-50.0,30,15,100.0,36.4,3.4,***.*,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,4,0,***.*,15,11,36.4,275.0,114.3,-31.8,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,4,0,***.*,12,10,20.0,200.0,100.0,-45.5,23,50,Bill de Blasio,James P. O誰eill,106th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,1,8,-87.5,-85.7,-93.3,-95.7,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,2,1,100.0,15,34,-55.9,-31.8,-16.7,-62.5,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,6,-66.7,15,27,-44.4,214,264,-18.9,2.4,-35.5,-79.0,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,7,4,75.0,25,26,-3.8,328,354,-7.3,-5.2,22.8,-18.0,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Burglary,9,7,28.6,23,29,-20.7,325,346,-6.1,5.2,-16.5,-79.5,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,14,20,-30.0,47,75,-37.3,606,663,-8.6,6.1,38.7,5.8,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,3,0,***.*,14,13,7.7,198,218,-9.2,-12.0,-46.9,-94.1,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,TOTAL,35,38,-7.89,126,171,-26.32,"1,687","1,887",-10.60,-0.12,-7.86,-75.93,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,20,14,42.9,68,59,15.3,778,802,-3.0,4.4,-1.9,***.*,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,9,14,-35.7,48,46,4.3,623,616,1.1,-3.6,6.7,***.*,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,8,3,166.7,33,27,22.2,50.0,-5.7,***.*,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,1,1,0.0,12,20,-40.0,0.0,-74.5,-85.9,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,1,0.0,11,15,-26.7,0.0,-64.5,-84.9,23,50,Bill de Blasio,James P. O誰eill,105th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,1,3,-66.7,-66.7,-75.0,-94.7,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,0,1,-100.0,21,19,10.5,16.7,10.5,0.0,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Robbery,5,2,150.0,19,11,72.7,175,167,4.8,0.0,-32.2,-82.3,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,4,0.0,17,14,21.4,199,180,10.6,-2.5,-7.9,-33.0,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Burglary,11,6,83.3,30,15,100.0,293,256,14.5,4.6,-32.5,-84.7,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,12,8.3,40,47,-14.9,522,510,2.4,-7.8,24.3,-20.4,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,3,-66.7,8,16,-50.0,150,175,-14.3,-31.2,-57.5,-95.5,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,TOTAL,34,28,21.43,114,104,9.62,"1,361","1,310",3.89,-7.04,-20.13,-81.18,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,1,0.0,20,12,66.7,81.8,5.3,***.*,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,23,18,27.8,81,60,35.0,997,945,5.5,-6.5,-3.1,***.*,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,9,5,80.0,39,29,34.5,500,456,9.6,-14.1,-25.7,***.*,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,1,3,-66.7,37,24,54.2,146.7,27.6,***.*,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,1,0,***.*,7,5,40.0,-12.5,75.0,-77.4,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,0,***.*,5,4,25.0,-28.6,66.7,-82.1,23,50,Bill de Blasio,James P. O誰eill,104th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,4,4,0.0,-55.6,-71.4,-85.7,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Rape,2,0,***.*,3,3,0.0,29,27,7.4,45.0,38.1,-59.2,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Robbery,8,6,33.3,27,29,-6.9,375,370,1.4,-1.3,-19.4,-77.6,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,11,7,57.1,27,24,12.5,393,428,-8.2,-12.9,17.3,-52.3,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Burglary,3,8,-62.5,9,26,-65.4,189,245,-22.9,-28.7,-23.2,-83.2,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,4,11,-63.6,25,48,-47.9,444,489,-9.2,-10.3,8.8,-62.1,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,3,-66.7,4,11,-63.6,95,102,-6.9,-29.1,-43.1,-93.8,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,TOTAL,29,35,-17.14,95,141,-32.62,"1,529","1,665",-8.17,-12.83,-7.67,-76.24,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,7,3,133.3,40,37,8.1,73.9,53.8,***.*,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Housing,0,2,-100.0,0,2,-100.0,32,30,6.7,0.0,-13.5,***.*,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,21,20,5.0,68,89,-23.6,862,"1,047",-17.7,-24.8,-21.3,***.*,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,14,13,7.7,53,61,-13.1,710,787,-9.8,-12.5,-6.1,***.*,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,2,0.0,5,4,25.0,41,47,-12.8,20.6,17.1,***.*,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,1,1,0.0,2,2,0.0,44,15,193.3,109.5,10.0,-71.4,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,1,0.0,2,2,0.0,33,15,120.0,94.1,17.9,-76.8,23,50,Bill de Blasio,James P. O誰eill,103rd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,5,6,-16.7,150.0,0.0,-54.5,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,0,***.*,21,14,50.0,50.0,61.5,-38.2,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Robbery,3,6,-50.0,15,19,-21.1,167,237,-29.5,-25.8,-36.5,-85.9,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,6,11,-45.5,19,31,-38.7,269,293,-8.2,13.0,15.5,-24.6,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Burglary,3,4,-25.0,11,14,-21.4,164,218,-24.8,-42.7,-53.3,-88.5,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,6,6,0.0,22,32,-31.3,348,392,-11.2,-28.1,1.2,-37.7,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,3,-33.3,10,16,-37.5,171,226,-24.3,-28.8,-38.9,-94.9,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,TOTAL,20,30,-33.33,79,112,-29.46,"1,145","1,386",-17.39,-23.10,-23.10,-83.50,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Transit,1,1,0.0,3,4,-25.0,16,18,-11.1,0.0,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,22,17,29.4,74,92,-19.6,847,874,-3.1,-14.5,9.4,***.*,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,13,18,-27.8,45,48,-6.3,567,611,-7.2,0.9,-6.0,***.*,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,0,0,***.*,28,41,-31.7,-6.7,-24.3,***.*,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,2,3,-33.3,19,11,72.7,280.0,171.4,-42.4,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,1,3,-66.7,11,11,0.0,120.0,57.1,-60.7,23,50,Bill de Blasio,James P. O誰eill,102nd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,5,-60.0,-60.0,-66.7,-87.5,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,0,1,-100.0,18,14,28.6,38.5,12.5,-57.1,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Robbery,1,6,-83.3,13,11,18.2,149,160,-6.9,5.7,25.2,-78.3,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,3,33.3,19,16,18.8,304,320,-5.0,10.9,98.7,-40.4,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Burglary,2,3,-33.3,10,9,11.1,139,148,-6.1,-8.6,4.5,-81.4,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,3,5,-40.0,16,12,33.3,215,211,1.9,9.7,121.6,-32.2,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,2,4,-50.0,50,34,47.1,-27.5,-34.2,-88.9,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,TOTAL,11,18,-38.89,60,53,13.21,877,892,-1.68,3.18,46.17,-68.39,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,1,2,-50.0,23,27,-14.8,130.0,130.0,***.*,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Housing,1,2,-50.0,14,6,133.3,119,111,7.2,20.2,205.1,***.*,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,5,10,-50.0,28,34,-17.6,496,467,6.2,1.4,41.7,***.*,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,9,9,0.0,34,34,0.0,482,467,3.2,13.1,20.2,***.*,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,3,2,50.0,5,4,25.0,31,32,-3.1,121.4,121.4,***.*,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,1,1,0.0,15,24,-37.5,-50.0,-42.3,-65.9,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,1,0.0,14,21,-33.3,-51.7,-41.7,-66.7,23,50,Bill de Blasio,James P. O誰eill,101st Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,3,-100.0,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,2,-100.0,5,9,-44.4,-16.7,25.0,-61.5,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Robbery,0,2,-100.0,4,5,-20.0,52,60,-13.3,-10.3,-18.8,-80.8,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,0,***.*,9,4,125.0,117,126,-7.1,-12.7,39.3,-44.5,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Burglary,6,0,***.*,10,4,150.0,63,74,-14.9,-50.8,14.5,-84.6,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,2,2,0.0,13,15,-13.3,229,192,19.3,27.9,106.3,21.2,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,3,1,200.0,18,21,-14.3,-48.6,-33.3,-94.1,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,TOTAL,9,4,125.00,39,31,25.81,484,485,-0.21,-10.54,39.88,-65.45,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,1,1,0.0,9,15,-40.0,-18.2,-43.8,***.*,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Housing,0,1,-100.0,3,3,0.0,24,26,-7.7,-17.2,26.3,***.*,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,3,7,-57.1,28,23,21.7,355,364,-2.5,-8.7,22.4,***.*,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,4,6,-33.3,14,16,-12.5,281,220,27.7,2.9,-14.8,***.*,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,0,***.*,7,0,***.*,21,12,75.0,133.3,50.0,***.*,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,3,14,-78.6,-76.9,-25.0,-75.0,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,3,14,-78.6,-75.0,-25.0,-72.7,23,50,Bill de Blasio,James P. O誰eill,100th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,1,2,-50.0,***.*,***.*,-87.5,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,0,2,-100.0,13,8,62.5,44.4,"1,200.0",62.5,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,0,***.*,6,3,100.0,84,75,12.0,-7.7,-32.8,-85.6,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,2,-100.0,2,3,-33.3,84,97,-13.4,-6.7,18.3,-67.7,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Burglary,4,5,-20.0,11,18,-38.9,161,211,-23.7,-32.1,-31.5,-85.4,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,11,10,10.0,43,32,34.4,498,481,3.5,5.3,66.6,38.7,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,2,-50.0,4,8,-50.0,81,119,-31.9,-27.7,-43.8,-90.8,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,TOTAL,17,20,-15.00,66,66,0.00,922,993,-7.15,-8.89,5.37,-71.21,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,2,0,***.*,26,20,30.0,13.0,85.7,***.*,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,1,0,***.*,28,19,47.4,-6.7,27.3,***.*,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,20,26,-23.1,61,80,-23.8,776,814,-4.7,0.3,31.7,***.*,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,7,3,133.3,24,14,71.4,278,267,4.1,23.6,36.9,***.*,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,0,2,-100.0,19,35,-45.7,5.6,11.8,***.*,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,8,4,100.0,166.7,14.3,-33.3,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,6,4,50.0,200.0,0.0,-40.0,23,50,Bill de Blasio,James P. O誰eill,94th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,3,6,-50.0,50.0,50.0,-85.0,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,2,-100.0,22,19,15.8,37.5,175.0,-35.3,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Robbery,4,6,-33.3,13,23,-43.5,218,261,-16.5,-8.4,-39.8,-82.5,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,0,***.*,19,6,216.7,220,180,22.2,-7.2,9.5,-61.5,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Burglary,8,6,33.3,22,37,-40.5,245,382,-35.9,-23.2,-46.9,-81.1,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,17,13,30.8,50,47,6.4,686,627,9.4,7.5,40.3,27.3,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,3,-33.3,3,9,-66.7,113,148,-23.6,-28.5,-28.0,-87.5,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,TOTAL,33,28,17.86,108,124,-12.90,"1,507","1,623",-7.15,-6.28,-10.30,-67.33,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,5,2,150.0,41,35,17.1,20.6,-2.4,***.*,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Housing,5,2,150.0,14,11,27.3,168,150,12.0,-2.3,30.2,***.*,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,12,22,-45.5,68,69,-1.4,"1,158","1,169",-0.9,-11.0,-5.1,***.*,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,8,15,-46.7,30,40,-25.0,522,477,9.4,14.2,9.2,***.*,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,1,1,0.0,44,42,4.8,4.8,12.8,***.*,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,12,26,-53.8,-53.8,-33.3,-85.7,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,10,21,-52.4,-44.4,-37.5,-87.2,23,50,Bill de Blasio,James P. O誰eill,90th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,8,-75.0,0.0,-66.7,-90.9,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,11,10,10.0,266.7,22.2,-65.6,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Robbery,5,2,150.0,17,9,88.9,120,143,-16.1,-36.2,-47.4,-89.6,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,5,2,150.0,13,10,30.0,169,172,-1.7,0.6,29.0,-64.0,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Burglary,1,4,-75.0,6,13,-53.8,104,122,-14.8,-40.6,-41.9,-90.2,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,7,5,40.0,29,24,20.8,365,362,0.8,-10.8,-20.5,-31.4,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,4,-100.0,1,7,-85.7,58,88,-34.1,-37.6,-40.2,-92.0,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,TOTAL,18,17,5.88,66,64,3.13,829,905,-8.40,-20.13,-25.25,-79.29,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,2,-50.0,31,29,6.9,-27.9,-41.5,***.*,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Housing,5,1,400.0,8,4,100.0,85,99,-14.1,-27.4,-19.0,***.*,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,7,18,-61.1,35,54,-35.2,612,677,-9.6,-22.4,-46.6,***.*,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,4,8,-50.0,27,35,-22.9,304,301,1.0,-10.3,7.8,***.*,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,2,1,100.0,21,22,-4.5,61.5,-12.5,***.*,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,1,3,-66.7,7,28,-75.0,-53.3,-63.2,-94.1,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,3,-66.7,7,22,-68.2,-41.7,-58.8,-93.3,23,50,Bill de Blasio,James P. O誰eill,88th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,1,-100.0,3,2,50.0,200.0,0.0,-72.7,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,4,10,-60.0,-33.3,100.0,-81.8,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Robbery,3,2,50.0,8,9,-11.1,124,120,3.3,-8.1,-30.3,-90.3,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,8,-100.0,8,13,-38.5,148,139,6.5,13.8,34.5,-64.8,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Burglary,4,2,100.0,5,8,-37.5,72,90,-20.0,-35.7,-38.5,-90.9,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,15,16,-6.3,51,58,-12.1,572,666,-14.1,-3.2,14.6,-48.1,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,2,1,100.0,32,50,-36.0,-22.0,-37.3,-95.5,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,TOTAL,22,28,-21.43,74,91,-18.68,955,"1,077",-11.33,-6.00,-0.52,-78.05,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Transit,1,2,-50.0,7,7,0.0,76,86,-11.6,-20.8,8.6,***.*,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Housing,0,2,-100.0,1,6,-83.3,29,50,-42.0,-38.3,3.6,***.*,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,38,28,35.7,137,111,23.4,"1,567","1,400",11.9,10.4,6.6,***.*,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,5,10,-50.0,23,36,-36.1,332,305,8.9,10.3,-4.9,***.*,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,4,2,100.0,52,41,26.8,126.1,67.7,***.*,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,1,1,0.0,7,9,-22.2,75.0,-12.5,-81.6,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,1,0.0,6,6,0.0,50.0,0.0,-79.3,23,50,Bill de Blasio,James P. O誰eill,84th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,4,7,-42.9,-42.9,-69.2,-90.0,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,0,2,-100.0,29,30,-3.3,16.0,-14.7,-53.2,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Robbery,6,10,-40.0,21,31,-32.3,323,317,1.9,-1.5,-25.6,-78.2,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,5,-60.0,16,22,-27.3,295,271,8.9,-2.6,-19.0,-64.0,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Burglary,6,9,-33.3,29,33,-12.1,307,456,-32.7,-35.5,-32.7,-76.7,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,7,9,-22.2,34,34,0.0,475,411,15.6,0.4,61.0,-13.3,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,3,4,-25.0,5,15,-66.7,111,124,-10.5,-16.5,-33.1,-88.0,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,TOTAL,24,38,-36.84,105,137,-23.36,"1,544","1,616",-4.46,-11.52,-12.37,-70.27,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Transit,1,1,0.0,4,2,100.0,28,22,27.3,33.3,7.7,***.*,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,3,4,-25.0,27,25,8.0,-35.7,12.5,***.*,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,16,12,33.3,61,57,7.0,950,876,8.4,-7.4,28.7,***.*,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,7,11,-36.4,36,44,-18.2,694,646,7.4,-0.6,-8.2,***.*,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,3,1,200.0,8,5,60.0,54,54,0.0,-1.8,10.2,***.*,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,6,1,500.0,20,18,11.1,-20.0,-53.5,-91.2,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,3,1,200.0,15,16,-6.3,-31.8,-54.5,-92.8,23,50,Bill de Blasio,James P. O誰eill,83rd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,10,4,150.0,42.9,-41.2,-60.0,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,7,1,600.0,21,10,110.0,-27.6,-12.5,-73.4,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Robbery,3,11,-72.7,19,25,-24.0,224,317,-29.3,-26.1,-34.3,-81.3,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,7,2,250.0,14,21,-33.3,292,319,-8.5,-7.9,-8.2,-65.4,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Burglary,3,3,0.0,8,14,-42.9,226,240,-5.8,-25.7,-4.6,-72.5,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,5,6,-16.7,31,25,24.0,385,409,-5.9,-10.9,8.8,3.5,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,2,0.0,5,8,-37.5,60,75,-20.0,-45.9,-25.9,-89.6,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,TOTAL,21,24,-12.50,85,94,-9.57,"1,218","1,374",-11.35,-18.96,-11.22,-68.89,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,1,2,-50.0,13,29,-55.2,-38.1,-53.6,***.*,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Housing,1,2,-50.0,6,10,-40.0,79,98,-19.4,-13.2,-6.0,***.*,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,9,11,-18.2,53,35,51.4,665,663,0.3,3.9,-14.4,***.*,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,7,11,-36.4,36,36,0.0,482,450,7.1,-19.3,-37.8,***.*,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,1,3,-66.7,40,29,37.9,21.2,-21.6,***.*,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,1,1,0.0,2,2,0.0,52,32,62.5,4.0,-11.9,-69.9,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,1,0.0,2,2,0.0,40,29,37.9,0.0,-20.0,-74.4,23,50,Bill de Blasio,James P. O誰eill,81st Precinct
+  12/12/2016,  12/18/2016,Murder,0,2,-100.0,0,2,-100.0,7,7,0.0,-22.2,-41.7,-86.8,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,5,-100.0,16,27,-40.7,-33.3,-44.8,-78.7,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Robbery,7,6,16.7,28,21,33.3,288,269,7.1,-6.2,-30.8,-85.7,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,8,4,100.0,36,32,12.5,379,351,8.0,1.9,-8.7,-65.5,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Burglary,14,4,250.0,34,22,54.5,319,301,6.0,-8.3,-20.8,-73.9,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,6,10,-40.0,23,30,-23.3,464,440,5.5,6.7,16.3,-44.6,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,4,-50.0,10,5,100.0,97,92,5.4,-25.4,-14.9,-81.9,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,TOTAL,37,30,23.33,131,117,11.97,"1,570","1,487",5.58,-3.38,-12.19,-73.13,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Transit,0,4,-100.0,2,5,-60.0,25,21,19.0,19.0,-21.9,***.*,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Housing,7,2,250.0,24,10,140.0,212,163,30.1,-6.2,0.5,***.*,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,21,29,-27.6,92,92,0.0,"1,086","1,060",2.5,-2.6,7.8,***.*,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,10,15,-33.3,51,62,-17.7,668,661,1.1,-15.3,-28.3,***.*,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,3,-33.3,2,4,-50.0,33,45,-26.7,-17.5,-34.0,***.*,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,1,2,-50.0,4,4,0.0,39,36,8.3,8.3,-31.6,-85.7,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,2,-50.0,4,4,0.0,33,31,6.5,3.1,-25.0,-86.3,23,50,Bill de Blasio,James P. O誰eill,79th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,10,11,-9.1,100.0,100.0,-61.5,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,2,0.0,10,9,11.1,126,120,5.0,32.6,0.0,-85.1,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,0,***.*,5,4,25.0,78,103,-24.3,-3.7,85.7,-69.9,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Burglary,3,4,-25.0,15,15,0.0,118,163,-27.6,-4.1,-31.0,-84.7,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,11,18.2,46,39,17.9,507,507,0.0,-8.8,28.4,4.8,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,1,-100.0,3,7,-57.1,50,60,-16.7,-15.3,-44.4,-95.0,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,TOTAL,20,18,11.11,79,75,5.33,889,964,-7.78,-3.26,7.11,-73.79,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,7,0,***.*,33,42,-21.4,-13.2,3.1,***.*,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Housing,0,1,-100.0,1,4,-75.0,20,24,-16.7,0.0,53.8,***.*,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,24,17,41.2,92,103,-10.7,"1,194","1,041",14.7,-6.2,36.6,***.*,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,2,6,-66.7,13,21,-38.1,222,221,0.5,9.9,24.0,***.*,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,0,3,-100.0,27,33,-18.2,58.8,58.8,***.*,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,1,2,-50.0,-75.0,0.0,-93.8,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,1,1,0.0,-66.7,0.0,-93.8,23,50,Bill de Blasio,James P. O誰eill,78th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,9,11,-18.2,12.5,-50.0,-88.6,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,1,0,***.*,21,20,5.0,5.0,-4.5,-69.1,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Robbery,7,6,16.7,22,23,-4.3,248,281,-11.7,-12.4,-10.1,-88.3,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,8,-50.0,19,21,-9.5,356,348,2.3,-5.6,21.1,-69.3,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Burglary,2,2,0.0,13,12,8.3,189,245,-22.9,-34.4,-39.0,-87.6,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,7,3,133.3,29,22,31.8,440,448,-1.8,-11.6,52.2,-24.0,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,8,4,100.0,82,96,-14.6,-37.4,-33.9,-89.1,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,TOTAL,22,19,15.79,92,82,12.20,"1,345","1,449",-7.18,-16.20,0.90,-78.59,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Transit,1,2,-50.0,3,3,0.0,46,44,4.5,31.4,31.4,***.*,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Housing,2,2,0.0,5,3,66.7,105,93,12.9,-0.9,47.9,***.*,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,11,18,-38.9,58,64,-9.4,805,798,0.9,-13.3,-1.3,***.*,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,14,14,0.0,48,57,-15.8,626,642,-2.5,-8.3,-20.1,***.*,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,5,-80.0,2,6,-66.7,44,55,-20.0,-8.3,-13.7,***.*,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,0,3,-100.0,31,35,-11.4,-24.4,-55.7,-88.0,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,0,3,-100.0,26,31,-16.1,-27.8,-53.6,-88.8,23,50,Bill de Blasio,James P. O誰eill,77th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,3,1,200.0,200.0,50.0,-62.5,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,2,0,***.*,7,4,75.0,40.0,600.0,-41.7,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,1,0.0,5,3,66.7,68,80,-15.0,-19.0,-29.9,-82.4,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,1,0.0,2,10,-80.0,77,98,-21.4,-21.4,-13.5,-74.2,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Burglary,6,2,200.0,10,6,66.7,74,129,-42.6,-23.7,-28.2,-82.4,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,3,4,-25.0,10,25,-60.0,203,269,-24.5,-29.0,-9.4,-10.6,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,2,-50.0,3,4,-25.0,30,32,-6.3,-41.2,-49.2,-92.4,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,TOTAL,13,10,30.00,32,48,-33.33,462,613,-24.63,-25.72,-19.65,-73.57,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,3,10,-70.0,-50.0,-76.9,***.*,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Housing,4,1,300.0,6,11,-45.5,114,106,7.5,-10.9,46.2,***.*,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,2,8,-75.0,22,26,-15.4,405,431,-6.0,-18.3,-3.3,***.*,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,5,3,66.7,17,7,142.9,175,153,14.4,15.1,-37.5,***.*,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,2,1,100.0,18,15,20.0,50.0,5.9,***.*,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,3,-100.0,12,19,-36.8,100.0,-25.0,-79.3,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,2,-100.0,9,12,-25.0,80.0,-30.8,-80.9,23,50,Bill de Blasio,James P. O誰eill,76th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,23,18,27.8,15.0,-25.8,-80.8,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,2,4,-50.0,55,52,5.8,-16.7,-8.3,-53.8,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Robbery,12,15,-20.0,49,67,-26.9,609,712,-14.5,-22.4,-17.3,-80.0,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,13,11,18.2,56,43,30.2,902,844,6.9,0.9,24.1,-37.4,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Burglary,8,6,33.3,26,40,-35.0,358,429,-16.6,-30.9,-22.3,-80.1,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,29,32,-9.4,92,90,2.2,"1,005","1,091",-7.9,-3.4,45.0,7.3,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,6,-66.7,16,21,-23.8,216,256,-15.6,-27.8,-29.4,-91.5,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,TOTAL,65,70,-7.14,242,265,-8.68,"3,168","3,402",-6.88,-12.53,5.11,-68.35,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Transit,3,2,50.0,8,6,33.3,59,57,3.5,-10.6,-19.2,***.*,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Housing,3,6,-50.0,18,17,5.9,278,252,10.3,14.9,25.2,***.*,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,41,41,0.0,184,182,1.1,"2,012","2,109",-4.6,-4.1,38.2,***.*,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,27,32,-15.6,98,107,-8.4,"1,539","1,519",1.3,-13.1,-14.1,***.*,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,5,1,400.0,13,7,85.7,81,106,-23.6,-1.2,-32.5,***.*,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,1,1,0.0,6,3,100.0,63,80,-21.3,-14.9,-41.1,-79.0,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,1,0.0,6,3,100.0,55,64,-14.1,-16.7,-37.5,-79.8,23,50,Bill de Blasio,James P. O誰eill,75th Precinct
+  12/12/2016,  12/18/2016,Murder,1,0,***.*,2,3,-33.3,14,14,0.0,-22.2,-48.1,-81.1,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,3,1,200.0,32,34,-5.9,-3.0,-5.9,-62.4,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Robbery,4,7,-42.9,24,30,-20.0,322,364,-11.5,-20.1,-33.3,-85.2,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,9,14,-35.7,36,40,-10.0,555,575,-3.5,-6.1,-0.5,-50.0,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Burglary,1,2,-50.0,8,7,14.3,175,164,6.7,-34.2,-36.1,-76.9,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,5,6,-16.7,34,39,-12.8,343,432,-20.6,-16.1,-22.2,-62.8,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,3,5,-40.0,6,13,-53.8,97,105,-7.6,0.0,-31.7,-86.0,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,TOTAL,23,34,-32.35,113,133,-15.04,"1,538","1,688",-8.89,-15.35,-21.49,-73.56,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,3,4,-25.0,49,67,-26.9,-23.4,-14.0,***.*,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Housing,2,8,-75.0,23,33,-30.3,333,360,-7.5,-0.6,35.4,***.*,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,22,19,15.8,74,69,7.2,900,950,-5.3,-1.2,-7.1,***.*,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,6,25,-76.0,43,81,-46.9,999,"1,056",-5.4,-10.0,-20.5,***.*,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,8,3,166.7,63,61,3.3,65.8,-11.3,***.*,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,2,1,100.0,6,7,-14.3,50,71,-29.6,-39.8,-51.5,-84.6,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,1,0.0,5,5,0.0,45,60,-25.0,-36.6,-45.8,-84.8,23,50,Bill de Blasio,James P. O誰eill,73rd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,1,-100.0,4,3,33.3,300.0,-42.9,-76.5,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Rape,1,1,0.0,2,1,100.0,22,20,10.0,57.1,10.0,-42.1,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Robbery,3,6,-50.0,15,20,-25.0,185,200,-7.5,-5.1,-23.2,-81.8,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,5,-60.0,17,24,-29.2,234,220,6.4,-5.6,25.1,-53.8,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Burglary,3,10,-70.0,10,24,-58.3,136,207,-34.3,-26.1,-43.3,-87.9,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,5,7,-28.6,34,38,-10.5,410,371,10.5,1.2,11.4,-9.5,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,2,-100.0,3,10,-70.0,111,102,8.8,19.4,-5.1,-88.3,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,TOTAL,14,31,-54.84,81,118,-31.36,"1,102","1,123",-1.87,-3.33,-6.61,-73.13,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Transit,1,1,0.0,2,1,100.0,26,25,4.0,18.2,-18.8,***.*,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,21,16,31.3,68,67,1.5,793,765,3.7,1.7,3.3,***.*,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,9,6,50.0,37,41,-9.8,499,472,5.7,6.4,-15.0,***.*,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,2,5,-60.0,48,53,-9.4,-23.8,-14.3,***.*,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,1,-100.0,7,4,75.0,133.3,-12.5,-77.4,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,1,-100.0,6,4,50.0,100.0,-14.3,-79.3,23,50,Bill de Blasio,James P. O誰eill,72nd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,5,4,25.0,0.0,-44.4,-86.5,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,2,4,-50.0,13,22,-40.9,-31.6,0.0,-82.2,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Robbery,9,6,50.0,25,20,25.0,219,287,-23.7,-22.1,-17.7,-86.6,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,11,9,22.2,31,31,0.0,362,367,-1.4,-3.5,26.1,-60.2,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Burglary,3,7,-57.1,16,18,-11.1,157,204,-23.0,-8.7,-47.0,-91.4,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,5,16,-68.8,33,48,-31.3,458,487,-6.0,-11.1,10.9,-32.4,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,1,0.0,7,10,-30.0,76,93,-18.3,-3.8,-48.6,-94.3,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,TOTAL,29,40,-27.50,114,131,-12.98,"1,290","1,464",-11.89,-10.79,-9.92,-80.12,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,1,-100.0,20,32,-37.5,-31.0,-57.4,***.*,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,1,0,***.*,4,3,33.3,300.0,-20.0,***.*,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,24,20,20.0,70,77,-9.1,930,931,-0.1,-2.2,-4.8,***.*,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,7,13,-46.2,44,48,-8.3,575,601,-4.3,-7.7,-28.2,***.*,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,2,-100.0,10,7,42.9,43,57,-24.6,0.0,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,28,26,7.7,-20.0,-28.2,-71.1,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,21,17,23.5,-25.0,-32.3,-77.7,23,50,Bill de Blasio,James P. O誰eill,71st Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,1,-100.0,5,15,-66.7,66.7,-28.6,-88.6,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,1,0.0,25,17,47.1,13.6,4.2,-77.1,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Robbery,4,4,0.0,17,21,-19.0,232,341,-32.0,-26.6,-40.8,-88.9,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,7,-42.9,16,22,-27.3,247,258,-4.3,-21.3,-30.2,-70.8,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Burglary,1,1,0.0,8,25,-68.0,173,266,-35.0,-39.9,-45.4,-93.8,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,17,22,-22.7,52,61,-14.8,627,627,0.0,-5.0,-4.0,-42.4,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,2,-50.0,4,7,-42.9,80,96,-16.7,-4.8,-56.0,-96.6,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,TOTAL,27,36,-25.00,98,138,-28.99,"1,389","1,620",-14.26,-17.66,-27.99,-85.09,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,2,-50.0,25,49,-49.0,13.6,-3.8,***.*,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,23,27,-14.8,95,89,6.7,"1,315","1,399",-6.0,-11.7,0.2,***.*,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,13,15,-13.3,58,55,5.5,667,695,-4.0,-5.5,-11.8,***.*,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,3,-100.0,1,4,-75.0,40,48,-16.7,0.0,-20.0,***.*,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,1,-100.0,11,31,-64.5,-60.7,-68.6,-92.1,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,1,-100.0,11,22,-50.0,-50.0,-63.3,-90.3,23,50,Bill de Blasio,James P. O誰eill,70th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,6,4,50.0,100.0,-33.3,-40.0,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,0,***.*,17,20,-15.0,21.4,13.3,-29.2,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Robbery,6,4,50.0,16,15,6.7,156,184,-15.2,-19.6,-31.0,-77.2,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,4,-75.0,8,19,-57.9,232,245,-5.3,-4.9,46.8,-12.1,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,7,-100.0,4,12,-66.7,95,120,-20.8,-57.0,-61.4,-84.5,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,2,12,-83.3,17,29,-41.4,323,353,-8.5,-8.0,36.3,-19.7,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,1,-100.0,6,8,-25.0,91,97,-6.2,-3.2,-17.3,-95.7,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,TOTAL,9,28,-67.86,52,83,-37.35,920,"1,023",-10.07,-17.93,-8.09,-77.57,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,11,11,0.0,-42.1,-8.3,***.*,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Housing,1,2,-50.0,7,7,0.0,95,112,-15.2,-9.5,61.0,***.*,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,14,13,7.7,42,38,10.5,465,515,-9.7,-10.6,-11.4,***.*,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,10,12,-16.7,31,30,3.3,365,358,2.0,-3.7,-17.8,***.*,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,3,-66.7,2,4,-50.0,25,25,0.0,66.7,-28.6,***.*,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,2,-100.0,2,3,-33.3,18,21,-14.3,-52.6,-33.3,-35.7,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,1,2,-50.0,15,18,-16.7,-55.9,-34.8,-31.8,23,50,Bill de Blasio,James P. O誰eill,69th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,3,0,***.*,200.0,200.0,-25.0,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,2,2,0.0,9,6,50.0,-30.8,50.0,-67.9,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Robbery,3,1,200.0,9,7,28.6,85,94,-9.6,-7.6,-15.0,-84.2,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,8,-87.5,11,13,-15.4,128,130,-1.5,6.7,28.0,-54.0,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Burglary,1,1,0.0,8,13,-38.5,122,218,-44.0,-36.8,-48.7,-89.1,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,4,3,33.3,20,23,-13.0,388,382,1.6,-4.2,24.0,-15.8,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,1,0.0,4,5,-20.0,96,104,-7.7,-10.3,-33.8,-94.9,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,TOTAL,11,14,-21.43,54,63,-14.29,831,934,-11.03,-10.74,-7.97,-80.75,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,1,0.0,5,15,-66.7,-44.4,-28.6,***.*,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,9,19,-52.6,53,91,-41.8,894,852,4.9,3.7,-24.0,***.*,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,8,6,33.3,30,25,20.0,341,312,9.3,18.4,-10.5,***.*,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,2,2,0.0,25,13,92.3,-7.4,-26.5,***.*,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,6,1,500.0,***.*,100.0,-14.3,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,3,1,200.0,***.*,0.0,-50.0,23,50,Bill de Blasio,James P. O誰eill,68th Precinct
+  12/12/2016,  12/18/2016,Murder,1,0,***.*,1,3,-66.7,12,17,-29.4,0.0,-53.8,-76.5,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Rape,1,1,0.0,2,3,-33.3,41,39,5.1,2.5,41.4,-57.3,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Robbery,6,12,-50.0,25,37,-32.4,401,413,-2.9,-12.3,-0.5,-82.6,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,7,10,-30.0,43,41,4.9,593,482,23.0,2.4,35.7,-50.3,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Burglary,5,7,-28.6,20,35,-42.9,258,288,-10.4,-23.9,-36.8,-87.3,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,7,19,-63.2,30,48,-37.5,599,647,-7.4,-10.6,14.3,-21.1,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,4,-100.0,8,14,-42.9,118,159,-25.8,-27.2,-55.3,-94.0,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,TOTAL,27,53,-49.06,129,181,-28.73,"2,022","2,045",-1.12,-10.49,-3.30,-75.94,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,0,2,-100.0,9,10,-10.0,0.0,50.0,***.*,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,2,-100.0,5,4,25.0,0.0,150.0,***.*,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,21,21,0.0,72,79,-8.9,968,964,0.4,2.3,6.0,***.*,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,16,14,14.3,65,72,-9.7,870,986,-11.8,-20.8,1.3,***.*,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,2,-100.0,4,4,0.0,51,56,-8.9,8.5,-15.0,***.*,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,1,0,***.*,4,6,-33.3,71,60,18.3,-15.5,-11.3,-67.4,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,0,***.*,4,4,0.0,57,53,7.5,-8.1,-17.4,-71.1,23,50,Bill de Blasio,James P. O誰eill,67th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,1,4,-75.0,0.0,***.*,-90.0,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,1,0.0,15,19,-21.1,87.5,36.4,-21.1,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Robbery,0,2,-100.0,9,14,-35.7,117,128,-8.6,-14.0,-33.9,-83.8,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,9,3,200.0,20,7,185.7,172,139,23.7,48.3,4.2,-43.6,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,6,-100.0,10,17,-41.2,161,255,-36.9,-40.8,-57.0,-90.2,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,10,7,42.9,37,44,-15.9,446,464,-3.9,-8.4,19.3,-30.5,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,2,0.0,8,6,33.3,85,88,-3.4,-2.3,-35.6,-95.2,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,TOTAL,21,20,5.00,85,89,-4.49,997,"1,097",-9.12,-9.94,-19.14,-80.42,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,3,-100.0,16,22,-27.3,-5.9,-15.8,***.*,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,23,14,64.3,67,68,-1.5,838,866,-3.2,-6.8,-4.1,***.*,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,3,7,-57.1,19,24,-20.8,303,326,-7.1,-3.2,-22.7,***.*,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,2,-50.0,4,4,0.0,37,45,-17.8,0.0,-24.5,***.*,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,1,3,-66.7,***.*,-85.7,-94.7,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,1,2,-50.0,***.*,-75.0,-94.7,23,50,Bill de Blasio,James P. O誰eill,66th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,5,5,0.0,66.7,150.0,-64.3,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,0,***.*,8,2,300.0,33.3,-52.9,-66.7,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Robbery,1,2,-50.0,6,17,-64.7,113,142,-20.4,-39.9,-47.7,-83.4,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,6,-100.0,8,12,-33.3,120,160,-25.0,-24.5,-7.0,-61.0,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Burglary,1,5,-80.0,8,18,-55.6,122,172,-29.1,-29.9,-54.0,-89.3,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,8,8,0.0,55,49,12.2,542,519,4.4,-1.6,5.7,-14.0,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,4,3,33.3,7,6,16.7,73,94,-22.3,-31.1,-53.2,-97.2,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,TOTAL,14,24,-41.67,85,102,-16.67,983,"1,094",-10.15,-17.19,-24.27,-81.93,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,3,-100.0,21,32,-34.4,-38.2,-25.0,***.*,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,13,16,-18.8,49,76,-35.5,946,962,-1.7,-2.2,-4.3,***.*,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,4,7,-42.9,27,30,-10.0,245,326,-24.8,-11.6,-28.4,***.*,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,0,2,-100.0,18,18,0.0,-5.3,-40.0,***.*,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,3,-100.0,2,4,-50.0,18,21,-14.3,50.0,-10.0,-45.5,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,2,2,0.0,16,17,-5.9,45.5,-5.9,-44.8,23,50,Bill de Blasio,James P. O誰eill,63rd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,1,0,***.*,12,10,20.0,9.1,9.1,-50.0,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Robbery,1,2,-50.0,16,11,45.5,161,164,-1.8,5.9,-4.7,-78.1,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,5,-80.0,4,17,-76.5,184,204,-9.8,-7.1,40.5,-38.3,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Burglary,2,7,-71.4,10,22,-54.5,162,225,-28.0,-44.9,-44.7,-89.9,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,5,9,-44.4,34,35,-2.9,458,490,-6.5,-8.4,4.6,-39.6,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,5,4,25.0,98,109,-10.1,6.5,-35.5,-94.5,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,TOTAL,11,23,-52.17,70,89,-21.35,"1,075","1,203",-10.64,-13.79,-10.49,-79.34,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,2,3,-33.3,23,29,-20.7,35.3,-14.8,***.*,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,15,32,-53.1,79,86,-8.1,954,894,6.7,5.6,0.8,***.*,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,4,11,-63.6,27,42,-35.7,509,620,-17.9,-13.3,20.3,***.*,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,0,***.*,2,1,100.0,39,24,62.5,14.7,-2.5,***.*,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,3,3,0.0,50.0,50.0,50.0,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,2,2,0.0,0.0,0.0,0.0,23,50,Bill de Blasio,James P. O誰eill,62nd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,3,-33.3,0.0,-66.7,-75.0,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,1,2,-50.0,10,12,-16.7,-16.7,150.0,-56.5,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Robbery,0,1,-100.0,6,15,-60.0,125,208,-39.9,-41.6,-12.6,-85.7,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,5,-60.0,8,11,-27.3,175,178,-1.7,-4.4,65.1,-42.8,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Burglary,3,20,-85.0,15,45,-66.7,182,322,-43.5,-45.0,-26.3,-91.1,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,16,10,60.0,44,38,15.8,546,593,-7.9,-29.5,39.6,-61.3,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,2,-50.0,10,9,11.1,90,115,-21.7,-26.8,-50.5,-97.2,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,TOTAL,22,39,-43.59,84,120,-30.00,"1,130","1,431",-21.03,-31.10,4.73,-85.63,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,1,-100.0,18,17,5.9,0.0,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Housing,1,4,-75.0,2,8,-75.0,51,64,-20.3,-8.9,75.9,***.*,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,15,25,-40.0,77,88,-12.5,947,934,1.4,-4.1,-10.9,***.*,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,8,3,166.7,27,24,12.5,390,421,-7.4,-3.0,-20.9,***.*,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,2,2,0.0,26,22,18.2,18.2,-33.3,***.*,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,5,8,-37.5,66.7,-44.4,-86.1,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,5,8,-37.5,66.7,-16.7,-82.8,23,50,Bill de Blasio,James P. O誰eill,61st Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,1,-100.0,3,4,-25.0,-70.0,-66.7,-85.0,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,1,2,-50.0,16,25,-36.0,-23.8,0.0,-56.8,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Robbery,4,4,0.0,19,22,-13.6,144,269,-46.5,-43.1,-44.4,-86.2,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,0,***.*,18,12,50.0,243,306,-20.6,-20.6,17.4,-66.3,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Burglary,6,3,100.0,12,11,9.1,103,164,-37.2,-42.5,-34.4,-89.3,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,6,7,-14.3,25,35,-28.6,349,529,-34.0,-39.8,-34.9,-47.9,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,4,-75.0,1,6,-83.3,55,82,-32.9,-17.9,-50.0,-95.2,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,TOTAL,22,18,22.22,76,89,-14.61,913,"1,379",-33.79,-35.52,-29.44,-80.15,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,4,3,33.3,30,40,-25.0,-6.3,-3.2,***.*,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Housing,4,4,0.0,18,6,200.0,179,198,-9.6,-13.1,51.7,***.*,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,12,14,-14.3,57,53,7.5,868,893,-2.8,0.1,-24.3,***.*,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,9,6,50.0,40,40,0.0,584,590,-1.0,1.0,14.5,***.*,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,2,-100.0,2,3,-33.3,38,33,15.2,18.8,-13.6,***.*,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,2,-100.0,13,24,-45.8,-43.5,-43.5,-80.9,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,2,-100.0,10,23,-56.5,-52.4,-44.4,-81.1,23,50,Bill de Blasio,James P. O誰eill,60th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,3,10,-70.0,-57.1,-72.7,-92.7,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,2,-50.0,28,29,-3.4,7.7,7.7,-53.3,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Robbery,5,10,-50.0,35,39,-10.3,439,440,-0.2,3.3,-10.0,-73.9,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,12,11,9.1,37,40,-7.5,572,539,6.1,9.6,30.0,-6.2,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Burglary,5,6,-16.7,19,23,-17.4,265,266,-0.4,-26.6,-36.3,-88.4,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,14,-7.1,46,45,2.2,620,647,-4.2,-8.6,13.1,-30.9,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,1,0.0,6,4,50.0,109,111,-1.8,12.4,-38.4,-92.4,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,TOTAL,36,42,-14.29,144,153,-5.88,"2,036","2,042",-0.29,-3.78,-3.32,-70.92,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,0,7,-100.0,45,55,-18.2,-13.5,66.7,***.*,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,1,-100.0,7,7,0.0,-12.5,-12.5,***.*,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,36,31,16.1,143,134,6.7,"1,637","1,641",-0.2,-6.3,32.0,***.*,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,15,18,-16.7,80,69,15.9,963,887,8.6,-0.3,10.7,***.*,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,0,***.*,3,2,50.0,51,52,-1.9,10.9,-13.6,***.*,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,1,1,0.0,14,29,-51.7,-48.1,-64.1,-83.7,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,1,1,0.0,14,28,-50.0,-39.1,-54.8,-82.5,23,50,Bill de Blasio,James P. O誰eill,52nd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,4,2,100.0,300.0,-20.0,-63.6,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,0,***.*,9,17,-47.1,-47.1,12.5,-57.1,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Robbery,3,5,-40.0,8,12,-33.3,133,148,-10.1,-1.5,-17.9,-77.9,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,2,100.0,10,7,42.9,153,104,47.1,12.5,29.7,-42.0,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Burglary,2,1,100.0,8,5,60.0,112,107,4.7,-34.1,-31.3,-89.9,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,10,9,11.1,36,33,9.1,450,449,0.2,10.0,30.1,2.0,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,1,-100.0,2,9,-77.8,88,93,-5.4,8.6,-30.7,-94.9,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,TOTAL,19,18,5.56,64,66,-3.03,949,920,3.15,0.00,2.15,-77.33,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,0,1,-100.0,16,15,6.7,-27.3,-11.1,***.*,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Housing,0,1,-100.0,3,3,0.0,40,34,17.6,-20.0,-9.1,***.*,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,8,23,-65.2,54,65,-16.9,765,732,4.5,-5.9,-2.9,***.*,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,3,4,-25.0,21,26,-19.2,306,337,-9.2,-7.0,-21.3,***.*,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,0,3,-100.0,12,19,-36.8,-7.7,-29.4,***.*,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,7,4,75.0,-22.2,16.7,-56.3,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,4,4,0.0,-50.0,-33.3,-69.2,23,50,Bill de Blasio,James P. O誰eill,50th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,2,-100.0,4,6,-33.3,-20.0,-60.0,-73.3,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,0,6,-100.0,23,30,-23.3,43.8,0.0,-36.1,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Robbery,4,5,-20.0,21,18,16.7,213,217,-1.8,23.1,-30.6,-67.5,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,6,5,20.0,22,23,-4.3,269,190,41.6,47.8,7.2,-19.5,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Burglary,3,6,-50.0,18,16,12.5,171,176,-2.8,-6.0,-54.2,-88.2,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,8,12,-33.3,34,42,-19.0,416,422,-1.4,16.2,-5.0,-26.5,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,4,3,33.3,8,13,-38.5,133,159,-16.4,3.1,-40.9,-92.9,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,TOTAL,25,32,-21.88,103,120,-14.17,"1,229","1,200",2.42,17.61,-24.46,-75.03,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,2,4,-50.0,11,18,-38.9,-31.3,-47.6,***.*,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Housing,4,0,***.*,7,2,250.0,62,50,24.0,87.9,1.6,***.*,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,21,20,5.0,79,76,3.9,889,"1,019",-12.8,-28.1,-2.4,***.*,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,13,14,-7.1,37,43,-14.0,485,494,-1.8,-12.8,-22.4,***.*,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,2,-100.0,1,3,-66.7,34,38,-10.5,17.2,6.3,***.*,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,1,-100.0,6,12,-50.0,-68.4,-77.8,-88.2,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,1,-100.0,6,11,-45.5,-62.5,-73.9,-86.4,23,50,Bill de Blasio,James P. O誰eill,49th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,1,-100.0,7,6,16.7,-30.0,75.0,-82.1,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Rape,1,2,-50.0,2,3,-33.3,22,39,-43.6,-4.3,10.0,-62.7,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Robbery,4,14,-71.4,27,45,-40.0,309,363,-14.9,-15.1,-21.4,-72.6,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,8,6,33.3,31,32,-3.1,440,540,-18.5,-7.9,21.9,-35.6,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,3,-100.0,8,13,-38.5,182,220,-17.3,-31.6,-24.8,-85.7,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,13,0.0,38,44,-13.6,467,476,-1.9,-5.3,48.7,3.8,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,2,2,0.0,10,5,100.0,74,110,-32.7,2.8,-36.2,-87.3,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,TOTAL,28,40,-30.00,116,143,-18.88,"1,501","1,754",-14.42,-12.02,3.52,-64.33,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,1,2,-50.0,22,16,37.5,22.2,100.0,***.*,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Housing,0,1,-100.0,0,3,-100.0,28,18,55.6,47.4,64.7,***.*,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,23,20,15.0,77,63,22.2,"1,009",900,12.1,-3.8,7.5,***.*,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,10,19,-47.4,57,66,-13.6,869,932,-6.8,-3.7,-8.0,***.*,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,2,-100.0,4,5,-20.0,46,35,31.4,4.5,-8.0,***.*,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,4,-100.0,34,26,30.8,13.3,-15.0,-75.0,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,3,-100.0,30,24,25.0,25.0,-9.1,-74.1,23,50,Bill de Blasio,James P. O誰eill,48th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,1,-100.0,8,11,-27.3,-52.9,-63.6,-77.1,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Rape,2,1,100.0,2,3,-33.3,37,34,8.8,19.4,-2.6,-51.3,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Robbery,7,13,-46.2,30,40,-25.0,421,404,4.2,2.7,-1.2,-69.3,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,17,10,70.0,52,37,40.5,594,571,4.0,11.4,41.1,-28.9,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Burglary,7,6,16.7,34,21,61.9,312,275,13.5,-15.7,-15.2,-82.6,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,18,15,20.0,68,54,25.9,619,511,21.1,49.2,104.3,15.9,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,7,9,-22.2,26,20,30.0,182,208,-12.5,-6.7,-48.3,-88.4,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,TOTAL,58,54,7.41,212,176,20.45,"2,173","2,014",7.89,10.25,12.59,-65.02,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Transit,0,2,-100.0,1,5,-80.0,37,41,-9.8,8.8,23.3,***.*,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Housing,4,2,100.0,11,4,175.0,112,108,3.7,21.7,53.4,***.*,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,22,25,-12.0,102,81,25.9,"1,216",965,26.0,23.6,63.9,***.*,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,19,18,5.6,64,77,-16.9,967,891,8.5,5.9,3.0,***.*,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,0,***.*,9,3,200.0,60,39,53.8,-16.7,27.7,***.*,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,1,0,***.*,1,3,-66.7,23,31,-25.8,-59.6,-64.6,-82.0,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,0,***.*,1,3,-66.7,22,29,-24.1,-56.0,-58.5,-81.8,23,50,Bill de Blasio,James P. O誰eill,47th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,14,12,16.7,7.7,16.7,-77.8,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,31,25,24.0,0.0,40.9,-61.3,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Robbery,5,14,-64.3,31,49,-36.7,419,406,3.2,28.9,-0.5,-79.7,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,7,5,40.0,30,37,-18.9,558,536,4.1,13.6,38.1,-44.7,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Burglary,3,2,50.0,15,15,0.0,235,263,-10.6,16.3,18.1,-89.7,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,5,8,-37.5,34,40,-15.0,504,447,12.8,18.9,70.3,-45.7,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,8,7,14.3,92,94,-2.1,-12.4,-24.0,-89.1,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,TOTAL,20,29,-31.03,119,149,-20.13,"1,853","1,783",3.93,16.47,25.63,-74.49,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,4,-75.0,41,40,2.5,17.1,17.1,***.*,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Housing,1,0,***.*,2,3,-33.3,42,24,75.0,68.0,75.0,***.*,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,11,17,-35.3,65,74,-12.2,"1,077",933,15.4,-4.7,22.5,***.*,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,15,26,-42.3,66,86,-23.3,961,"1,097",-12.4,-19.1,-21.7,***.*,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,4,4,0.0,46,45,2.2,-8.0,-4.2,***.*,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,1,1,0.0,3,1,200.0,39,51,-23.5,-15.2,-27.8,-77.8,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,1,0.0,2,1,100.0,33,39,-15.4,-13.2,-29.8,-79.4,23,50,Bill de Blasio,James P. O誰eill,46th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,2,0,***.*,7,3,133.3,***.*,600.0,-56.3,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,0,***.*,16,7,128.6,45.5,-15.8,-20.0,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,6,-83.3,12,13,-7.7,130,155,-16.1,-18.2,-44.2,-70.5,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,4,0.0,11,20,-45.0,173,188,-8.0,5.5,-1.7,-23.1,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Burglary,5,1,400.0,13,10,30.0,127,144,-11.8,-15.3,-57.8,-83.8,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,14,16,-12.5,40,49,-18.4,481,572,-15.9,-6.8,1.9,17.6,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,4,3,33.3,13,10,30.0,127,135,-5.9,-3.1,-37.7,-94.0,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,TOTAL,28,30,-6.67,91,102,-10.78,"1,061","1,204",-11.88,-6.19,-24.54,-73.55,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,0,***.*,27,28,-3.6,68.8,107.7,***.*,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Housing,1,1,0.0,3,3,0.0,55,54,1.9,-1.8,7.8,***.*,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,22,30,-26.7,87,95,-8.4,"1,245","1,484",-16.1,-1.3,-10.4,***.*,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,4,13,-69.2,32,39,-17.9,451,453,-0.4,-6.8,7.4,***.*,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,2,2,0.0,25,32,-21.9,-7.4,47.1,***.*,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,2,-100.0,1,3,-66.7,9,10,-10.0,50.0,28.6,-59.1,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,2,-100.0,1,3,-66.7,9,10,-10.0,80.0,28.6,-59.1,23,50,Bill de Blasio,James P. O誰eill,45th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,1,0.0,12,11,9.1,-20.0,-14.3,-81.5,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,3,0,***.*,28,32,-12.5,-9.7,-15.2,-69.9,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Robbery,12,9,33.3,39,50,-22.0,463,531,-12.8,18.1,-7.6,-76.7,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,9,7,28.6,37,42,-11.9,640,688,-7.0,-6.8,18.1,-52.0,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Burglary,6,7,-14.3,21,26,-19.2,207,277,-25.3,-21.0,-21.9,-90.0,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,13,0.0,67,68,-1.5,715,701,2.0,3.6,86.2,-8.3,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,3,3,0.0,7,7,0.0,118,143,-17.5,-29.3,-40.4,-90.5,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,TOTAL,44,39,12.82,175,194,-9.79,"2,183","2,383",-8.39,-2.72,12.70,-71.10,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Transit,0,2,-100.0,1,11,-90.9,48,55,-12.7,-11.1,17.1,***.*,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Housing,1,1,0.0,2,4,-50.0,49,58,-15.5,11.4,0.0,***.*,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,22,30,-26.7,111,154,-27.9,"1,648","1,786",-7.7,-14.1,24.7,***.*,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,21,18,16.7,78,74,5.4,"1,109","1,138",-2.5,-0.9,-7.4,***.*,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,2,0.0,5,5,0.0,71,62,14.5,20.3,65.1,***.*,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,2,5,-60.0,41,56,-26.8,-8.9,-2.4,-76.4,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,2,5,-60.0,34,46,-26.1,-12.8,3.0,-78.5,23,50,Bill de Blasio,James P. O誰eill,44th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,8,8,0.0,-11.1,-42.9,-87.9,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Rape,0,3,-100.0,0,6,-100.0,42,43,-2.3,13.5,27.3,-38.2,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Robbery,11,11,0.0,31,41,-24.4,524,540,-3.0,-0.2,2.7,-73.8,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,7,14,-50.0,39,42,-7.1,548,617,-11.2,-14.4,9.6,-40.2,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Burglary,6,4,50.0,23,21,9.5,296,310,-4.5,-3.9,-21.9,-84.2,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,17,15,13.3,56,65,-13.8,673,681,-1.2,0.0,21.7,-10.7,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,4,-100.0,7,15,-53.3,171,207,-17.4,6.2,-28.2,-91.3,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,TOTAL,41,51,-19.61,156,190,-17.89,"2,262","2,406",-5.99,-3.87,1.57,-70.43,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,3,1,200.0,25,22,13.6,-7.4,78.6,***.*,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Housing,8,6,33.3,22,24,-8.3,315,302,4.3,27.0,42.5,***.*,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,36,20,80.0,135,109,23.9,"1,634","1,457",12.1,10.5,10.3,***.*,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,26,21,23.8,103,84,22.6,"1,291","1,289",0.2,-7.9,-14.6,***.*,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,5,3,66.7,66,51,29.4,3.1,26.9,***.*,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,1,3,-66.7,21,53,-60.4,-53.3,-58.8,-85.9,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,1,3,-66.7,18,39,-53.8,-52.6,-58.1,-86.7,23,50,Bill de Blasio,James P. O誰eill,43rd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,2,1,100.0,7,6,16.7,40.0,-41.7,-79.4,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Rape,2,0,***.*,3,2,50.0,34,34,0.0,13.3,61.9,-53.4,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Robbery,9,6,50.0,30,36,-16.7,308,313,-1.6,2.3,-2.5,-75.6,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,7,10,-30.0,27,34,-20.6,469,367,27.8,12.7,52.3,-50.1,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Burglary,2,6,-66.7,6,19,-68.4,164,181,-9.4,5.8,11.6,-84.7,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,9,8,12.5,27,38,-28.9,295,298,-1.0,-3.3,29.4,-17.6,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,4,-100.0,4,10,-60.0,83,108,-23.1,-11.7,-28.4,-82.1,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,TOTAL,29,34,-14.71,99,140,-29.29,"1,360","1,307",4.06,4.13,18.47,-67.64,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,2,-50.0,13,14,-7.1,0.0,-23.5,***.*,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Housing,8,6,33.3,23,24,-4.2,207,219,-5.5,2.0,7.3,***.*,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,23,28,-17.9,89,88,1.1,964,822,17.3,11.4,27.3,***.*,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,20,22,-9.1,68,80,-15.0,934,862,8.4,6.7,9.0,***.*,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,6,4,50.0,44,33,33.3,51.7,-6.4,***.*,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,2,5,-60.0,26,36,-27.8,-36.6,-45.8,-78.2,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,2,5,-60.0,20,32,-37.5,-44.4,-52.4,-82.5,23,50,Bill de Blasio,James P. O誰eill,42nd Precinct
+  12/12/2016,  12/18/2016,Murder,1,0,***.*,1,0,***.*,8,3,166.7,100.0,100.0,-81.0,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Rape,1,1,0.0,4,4,0.0,22,20,10.0,22.2,10.0,-31.3,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Robbery,3,5,-40.0,22,18,22.2,232,221,5.0,-3.7,-16.2,-72.2,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,7,11,-36.4,17,38,-55.3,320,331,-3.3,-6.7,-16.9,-35.2,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Burglary,3,6,-50.0,10,16,-37.5,161,160,0.6,-21.5,-21.5,-84.2,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,7,1,600.0,30,13,130.8,329,323,1.9,-9.1,23.7,-24.9,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,2,-50.0,4,3,33.3,73,65,12.3,-2.7,-3.9,-82.8,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,TOTAL,23,26,-11.54,88,92,-4.35,"1,145","1,123",1.96,-8.25,-7.14,-65.11,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Transit,2,0,***.*,3,2,50.0,42,41,2.4,44.8,68.0,***.*,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,1,-100.0,22,15,46.7,-18.5,69.2,***.*,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,15,12,25.0,70,58,20.7,868,830,4.6,6.5,33.3,***.*,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,12,16,-25.0,46,43,7.0,617,663,-6.9,-11.1,-2.8,***.*,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,2,2,0.0,49,29,69.0,81.5,58.1,***.*,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,1,0,***.*,1,0,***.*,23,17,35.3,9.5,-17.9,-80.0,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,1,0,***.*,1,0,***.*,20,17,17.6,0.0,-20.0,-79.2,23,50,Bill de Blasio,James P. O誰eill,41st Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,14,9,55.6,133.3,0.0,-79.4,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,1,5,-80.0,36,36,0.0,33.3,63.6,-55.0,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Robbery,14,15,-6.7,34,66,-48.5,501,503,-0.4,24.6,14.6,-72.8,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,11,19,-42.1,54,55,-1.8,720,559,28.8,56.9,71.0,-32.1,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Burglary,5,7,-28.6,22,23,-4.3,248,226,9.7,71.0,27.2,-81.1,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,7,23,-69.6,51,61,-16.4,708,627,12.9,41.6,67.8,-5.2,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,2,-50.0,8,5,60.0,89,95,-6.3,-9.2,-26.4,-86.0,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,TOTAL,38,67,-43.28,170,215,-20.93,"2,316","2,055",12.70,41.48,41.91,-59.74,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Transit,2,2,0.0,5,13,-61.5,90,87,3.4,50.0,40.6,***.*,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Housing,3,9,-66.7,16,32,-50.0,328,310,5.8,9.7,14.3,***.*,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,39,30,30.0,145,141,2.8,"1,640","1,773",-7.5,1.5,18.4,***.*,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,23,18,27.8,100,96,4.2,"1,263","1,264",-0.1,7.7,14.3,***.*,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,1,0.0,3,5,-40.0,58,76,-23.7,-30.1,13.7,***.*,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,0,1,-100.0,38,30,26.7,-7.3,-36.7,-82.0,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,0,1,-100.0,31,29,6.9,-13.9,-40.4,-83.7,23,50,Bill de Blasio,James P. O誰eill,40th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,4,3,33.3,300.0,0.0,-92.0,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,1,1,0.0,9,22,-59.1,-35.7,-59.1,-89.8,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Robbery,4,6,-33.3,13,27,-51.9,217,239,-9.2,2.8,-20.8,-83.2,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,2,100.0,19,15,26.7,299,238,25.6,51.0,38.4,-63.7,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Burglary,2,1,100.0,10,16,-37.5,132,181,-27.1,-20.5,-25.8,-93.0,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,9,15,-40.0,32,44,-27.3,537,496,8.3,23.4,41.7,-53.6,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,6,7,-14.3,68,86,-20.9,-4.2,-23.6,-96.2,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,TOTAL,21,24,-12.50,82,110,-25.45,"1,266","1,265",0.08,15.51,8.95,-82.14,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Transit,2,0,***.*,2,1,100.0,30,34,-11.8,-16.7,15.4,***.*,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,2,-100.0,27,25,8.0,107.7,22.7,***.*,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,14,14,0.0,63,68,-7.4,787,719,9.5,6.1,27.8,***.*,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,5,12,-58.3,27,30,-10.0,541,498,8.6,8.0,2.3,***.*,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,4,-100.0,1,4,-75.0,29,30,-3.3,20.8,11.5,***.*,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,2,2,0.0,15,13,15.4,50.0,87.5,-91.3,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,2,2,0.0,13,9,44.4,62.5,62.5,-91.3,23,50,Bill de Blasio,James P. O誰eill,34th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,3,1,200.0,50.0,-25.0,***.*,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Rape,0,1,-100.0,2,4,-50.0,14,20,-30.0,-26.3,-22.2,0.0,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Robbery,4,3,33.3,12,8,50.0,118,133,-11.3,-16.9,-50.8,-4.8,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,6,-100.0,22,15,46.7,185,185,0.0,10.8,8.2,65.2,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Burglary,2,2,0.0,3,9,-66.7,48,99,-51.5,-56.0,-52.5,-67.6,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,3,4,-25.0,20,23,-13.0,289,293,-1.4,-8.3,11.2,228.4,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,1,1,0.0,28,41,-31.7,-17.6,-56.9,-75.4,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,TOTAL,9,16,-43.75,60,60,0.00,685,772,-11.27,-13.07,-20.26,14.17,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,1,0.0,21,25,-16.0,-25.0,50.0,***.*,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,2,0,***.*,17,7,142.9,54.5,41.7,***.*,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,27,9,200.0,68,40,70.0,748,629,18.9,18.2,33.1,***.*,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,11,4,175.0,37,32,15.6,397,391,1.5,2.6,-13.9,***.*,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,4,2,100.0,27,29,-6.9,50.0,12.5,***.*,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,1,0,***.*,11,9,22.2,37.5,22.2,-15.4,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,0,***.*,10,8,25.0,66.7,11.1,-23.1,23,50,Bill de Blasio,James P. O誰eill,33rd Precinct
+  12/12/2016,  12/18/2016,Murder,1,0,***.*,1,0,***.*,7,2,250.0,75.0,-12.5,-87.3,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,1,3,-66.7,30,34,-11.8,87.5,-6.3,-63.4,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Robbery,2,1,100.0,16,24,-33.3,192,265,-27.5,-22.0,-32.9,-79.1,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,8,-50.0,29,33,-12.1,344,334,3.0,17.8,13.9,-63.8,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Burglary,2,1,100.0,6,10,-40.0,129,109,18.3,37.2,5.7,-86.4,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,5,10,-50.0,22,27,-18.5,272,296,-8.1,-8.1,-6.2,-33.3,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,1,-100.0,1,3,-66.7,48,36,33.3,77.8,-4.0,-80.5,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,TOTAL,15,21,-28.57,76,100,-24.00,"1,022","1,076",-5.02,4.82,-6.24,-71.67,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,1,-100.0,12,7,71.4,9.1,20.0,***.*,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Housing,2,3,-33.3,9,16,-43.8,163,198,-17.7,-3.6,-3.0,***.*,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,7,19,-63.2,48,64,-25.0,651,694,-6.2,-2.1,4.8,***.*,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,4,16,-75.0,34,44,-22.7,611,677,-9.7,-9.7,-25.6,***.*,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,2,-50.0,4,7,-42.9,41,24,70.8,41.4,41.4,***.*,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,2,0,***.*,3,1,200.0,43,29,48.3,79.2,13.2,-66.4,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,2,0,***.*,3,1,200.0,35,23,52.2,52.2,9.4,-69.8,23,50,Bill de Blasio,James P. O誰eill,32nd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,2,0.0,-71.4,-71.4,-96.2,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,2,-50.0,21,19,10.5,16.7,-36.4,-53.3,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Robbery,4,1,300.0,19,7,171.4,170,160,6.3,19.7,-30.6,-74.8,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,6,6,0.0,12,10,20.0,177,167,6.0,-10.2,6.0,-73.3,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Burglary,1,1,0.0,4,5,-20.0,70,98,-28.6,-28.6,-32.7,-90.8,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,7,4,75.0,34,18,88.9,228,244,-6.6,-6.6,60.6,-32.7,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,5,1,400.0,31,25,24.0,40.9,-39.2,-90.2,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,TOTAL,19,12,58.33,75,43,74.42,699,715,-2.24,-3.98,-6.68,-75.52,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,2,3,-33.3,25,21,19.0,0.0,66.7,***.*,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,1,0,***.*,10,11,-9.1,11.1,66.7,***.*,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,12,8,50.0,44,31,41.9,507,428,18.5,13.7,35.9,***.*,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,10,5,100.0,23,19,21.1,344,383,-10.2,-32.3,-29.2,***.*,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,3,2,50.0,25,24,4.2,19.0,31.6,***.*,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,10,9,11.1,-41.2,-33.3,-87.7,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,7,4,75.0,-50.0,-46.2,-91.1,23,50,Bill de Blasio,James P. O誰eill,30th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,3,3,0.0,200.0,-50.0,-90.9,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,10,13,-23.1,-28.6,-23.1,-76.7,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Robbery,6,7,-14.3,17,15,13.3,200,178,12.4,19.0,-18.0,-76.6,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,3,8,-62.5,18,26,-30.8,233,224,4.0,20.7,33.1,-67.1,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,2,-100.0,4,12,-66.7,113,99,14.1,48.7,8.7,-86.8,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,8,7,14.3,39,25,56.0,404,370,9.2,23.5,35.6,-14.4,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,1,1,0.0,24,23,4.3,9.1,20.0,-83.2,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,TOTAL,17,24,-29.17,80,80,0.00,987,910,8.46,23.22,14.77,-68.24,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,2,0,***.*,27,30,-10.0,50.0,80.0,***.*,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Housing,2,1,100.0,8,4,100.0,57,57,0.0,3.6,18.8,***.*,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,24,30,-20.0,104,104,0.0,"1,085",990,9.6,-1.2,10.0,***.*,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,7,6,16.7,29,28,3.6,443,391,13.3,7.8,-9.6,***.*,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,2,1,100.0,29,27,7.4,38.1,123.1,***.*,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,3,2,50.0,14,19,-26.3,75.0,-39.1,-86.0,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,3,2,50.0,12,18,-33.3,71.4,-40.0,-85.9,23,50,Bill de Blasio,James P. O誰eill,28th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,0,***.*,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,2,0,***.*,10,5,100.0,-41.2,-23.1,-60.0,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Robbery,0,1,-100.0,9,6,50.0,104,118,-11.9,-14.8,-38.1,-86.1,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,1,0.0,7,2,250.0,88,75,17.3,7.3,-16.2,-69.0,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,1,-100.0,2,2,0.0,55,58,-5.2,-1.8,-29.5,-90.8,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,6,7,-14.3,25,24,4.2,307,294,4.4,-1.0,18.5,-52.6,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,0,2,-100.0,22,24,-8.3,10.0,-15.4,-93.8,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,TOTAL,7,10,-30.00,45,36,25.00,586,574,2.09,-3.78,-9.98,-78.02,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,4,4,0.0,47,38,23.7,56.7,34.3,***.*,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Housing,1,0,***.*,4,3,33.3,73,63,15.9,-7.6,-3.9,***.*,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,7,13,-46.2,33,35,-5.7,421,390,7.9,-7.7,-27.9,***.*,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,8,3,166.7,16,10,60.0,220,223,-1.3,-0.9,-22.3,***.*,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,2,0,***.*,34,27,25.9,17.2,41.7,***.*,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,1,0,***.*,5,7,-28.6,-28.6,-16.7,-85.7,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,1,0,***.*,5,7,-28.6,-28.6,-16.7,-83.3,23,50,Bill de Blasio,James P. O誰eill,26th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,3,5,-40.0,-40.0,-76.9,-91.4,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Rape,1,3,-66.7,2,7,-71.4,22,22,0.0,-18.5,29.4,-45.0,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,4,-75.0,10,16,-37.5,171,223,-23.3,-20.5,-23.0,-80.8,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,3,8,-62.5,17,29,-41.4,320,345,-7.2,-3.3,42.2,-51.1,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,0,***.*,4,8,-50.0,76,111,-31.5,-26.2,-28.3,-85.3,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,6,7,-14.3,28,22,27.3,383,352,8.8,21.2,68.7,0.8,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,2,-100.0,7,3,133.3,41,38,7.9,32.3,-40.6,-87.5,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,TOTAL,11,24,-54.17,68,85,-20.00,"1,016","1,096",-7.30,-1.17,15.59,-64.29,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,3,2,50.0,30,32,-6.3,30.4,-3.2,***.*,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Housing,2,3,-33.3,13,15,-13.3,124,133,-6.8,-10.1,22.8,***.*,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,10,11,-9.1,68,72,-5.6,868,991,-12.4,-16.1,-9.1,***.*,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,8,9,-11.1,25,35,-28.6,496,501,-1.0,-18.0,1.6,***.*,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,1,100.0,5,3,66.7,52,52,0.0,73.3,116.7,***.*,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,1,3,-66.7,22,24,-8.3,15.8,-46.3,-71.8,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,1,3,-66.7,20,19,5.3,53.8,-39.4,-72.6,23,50,Bill de Blasio,James P. O誰eill,25th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,1,1,0.0,0.0,-50.0,-95.7,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,0,***.*,8,9,-11.1,-38.5,-27.3,-77.1,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,4,-75.0,10,8,25.0,125,137,-8.8,-1.6,-32.8,-85.5,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,2,1,100.0,11,6,83.3,123,100,23.0,1.7,23.0,-73.0,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Burglary,5,4,25.0,14,9,55.6,129,99,30.3,-8.5,3.2,-87.6,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,21,14,50.0,70,53,32.1,645,578,11.6,16.8,23.1,-40.5,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,2,-50.0,4,2,100.0,28,52,-46.2,-36.4,-34.9,-97.1,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,TOTAL,30,25,20.00,110,78,41.03,"1,059",976,8.50,6.01,6.86,-76.29,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Transit,1,1,0.0,1,3,-66.7,36,46,-21.7,-23.4,24.1,***.*,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Housing,2,1,100.0,8,8,0.0,102,90,13.3,12.1,37.8,***.*,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,17,16,6.3,92,86,7.0,"1,055","1,055",0.0,12.4,2.0,***.*,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,2,8,-75.0,20,21,-4.8,265,271,-2.2,-4.7,-16.9,***.*,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,2,3,-33.3,44,22,100.0,69.2,175.0,***.*,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,2,5,-60.0,0.0,-60.0,-96.2,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,2,5,-60.0,0.0,-60.0,-96.0,23,50,Bill de Blasio,James P. O誰eill,24th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,1,0,***.*,2,7,-71.4,-50.0,-33.3,-92.3,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Rape,0,3,-100.0,0,3,-100.0,20,25,-20.0,25.0,-25.9,-67.2,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Robbery,1,11,-90.9,11,21,-47.6,189,209,-9.6,-22.9,-24.1,-78.7,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,5,8,-37.5,13,31,-58.1,317,291,8.9,29.4,45.4,-43.9,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Burglary,2,3,-33.3,4,8,-50.0,91,108,-15.7,-12.5,1.1,-80.7,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,0,9,-100.0,15,29,-48.3,300,325,-7.7,-10.2,19.5,-45.8,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,1,4,-75.0,29,33,-12.1,26.1,-21.6,-92.8,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,TOTAL,9,34,-73.53,45,96,-53.13,948,998,-5.01,-2.37,8.34,-68.05,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,1,1,0.0,5,10,-50.0,-16.7,-16.7,***.*,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Housing,6,16,-62.5,22,39,-43.6,329,349,-5.7,1.9,15.0,***.*,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,12,10,20.0,53,51,3.9,649,670,-3.1,-5.8,0.6,***.*,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,5,15,-66.7,38,43,-11.6,599,644,-7.0,2.6,-8.7,***.*,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,5,2,150.0,39,38,2.6,-4.9,11.4,***.*,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,1,-100.0,0,1,-100.0,20,21,-4.8,17.6,-50.0,-79.2,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,1,-100.0,0,1,-100.0,18,18,0.0,28.6,-48.6,-80.0,23,50,Bill de Blasio,James P. O誰eill,23rd Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100.0,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,1,3,-66.7,0.0,-83.3,-90.9,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Robbery,0,0,***.*,5,3,66.7,23,27,-14.8,15.0,0.0,-88.5,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,0,***.*,0,0,***.*,6,3,100.0,-45.5,0.0,-83.8,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Burglary,0,0,***.*,0,0,***.*,3,3,0.0,50.0,0.0,-91.2,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,0,0,***.*,1,0,***.*,43,49,-12.2,-10.4,-30.6,-75.6,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,0,0,***.*,0,0,***.*,-100.0,***.*,-100.0,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,TOTAL,0,0,***.*,6,4,50.00,76,85,-10.59,-8.43,-24.00,-83.86,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,0,2,-100.0,1,4,-75.0,66,89,-25.8,-19.5,-34.7,***.*,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,2,2,0.0,2,4,-50.0,31,20,55.0,24.0,63.2,***.*,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,0,1,-100.0,8,4,100.0,300.0,33.3,***.*,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,Central Park Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,4,5,-20.0,-50.0,-63.6,-80.0,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,1,0.0,3,9,-66.7,57,67,-14.9,18.8,-32.9,-90.0,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,1,0.0,7,5,40.0,64,59,8.5,45.5,20.8,-31.9,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,0,***.*,3,2,50.0,56,61,-8.2,-34.9,-43.4,-93.6,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,16,15,6.7,58,45,28.9,612,620,-1.3,-5.7,-6.8,-64.9,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,0,1,-100.0,28,30,-6.7,-9.7,-15.2,-97.5,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,TOTAL,18,17,5.88,71,63,12.70,821,842,-2.49,-5.20,-12.57,-81.50,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,3,0,***.*,27,20,35.0,145.5,-15.6,***.*,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,5,3,66.7,33,18,83.3,57.1,32.0,***.*,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,24,15,60.0,96,71,35.2,"1,179","1,140",3.4,-0.8,16.5,***.*,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,5,4,25.0,14,20,-30.0,182,186,-2.2,-20.9,-33.3,***.*,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,2,0,***.*,58,31,87.1,100.0,190.0,***.*,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,1,1,0.0,-50.0,***.*,-50.0,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,1,1,0.0,0.0,***.*,-50.0,23,50,Bill de Blasio,James P. O誰eill,20th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,1,100.0,***.*,100.0,-60.0,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,0,***.*,5,8,-37.5,-54.5,-66.7,-83.3,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,5,-60.0,14,12,16.7,93,103,-9.7,8.1,-34.0,-93.0,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,1,0.0,9,11,-18.2,121,121,0.0,18.6,30.1,-57.5,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Burglary,5,6,-16.7,14,17,-17.6,198,167,18.6,-6.2,-13.5,-93.2,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,31,34,-8.8,105,140,-25.0,"1,363","1,351",0.9,0.5,10.9,-62.6,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,1,0.0,3,4,-25.0,71,74,-4.1,-11.3,-19.3,-97.9,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,TOTAL,40,47,-14.89,145,184,-21.20,"1,853","1,825",1.53,0.38,3.17,-83.98,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Transit,0,2,-100.0,2,4,-50.0,25,44,-43.2,13.6,-3.8,***.*,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Housing,2,0,***.*,3,2,50.0,25,28,-10.7,-13.8,4.2,***.*,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,34,29,17.2,129,121,6.6,"1,617","1,540",5.0,6.8,-0.3,***.*,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,7,6,16.7,26,24,8.3,319,283,12.7,7.0,-4.5,***.*,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,1,0.0,5,3,66.7,67,60,11.7,0.0,55.8,***.*,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,19th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,0,***.*,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Rape,1,1,0.0,1,1,0.0,13,15,-13.3,30.0,-13.3,-48.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Robbery,4,3,33.3,17,13,30.8,158,156,1.3,30.6,18.8,-88.2,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Fel. Assault,3,0,***.*,9,8,12.5,182,151,20.5,9.0,37.9,-61.9,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Burglary,4,6,-33.3,20,31,-35.5,200,212,-5.7,-2.9,10.5,-90.4,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Gr. Larceny,41,46,-10.9,155,165,-6.1,"1,760","1,673",5.2,1.0,1.9,-76.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,2,1,100.0,30,37,-18.9,-16.7,-33.3,-93.8,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,TOTAL,54,56,-3.57,204,219,-6.85,"2,343","2,244",4.41,2.54,4.74,-80.07,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Transit,1,1,0.0,7,7,0.0,75,73,2.7,29.3,15.4,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,4,7,-42.9,100.0,-33.3,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Petit Larceny,32,45,-28.9,129,147,-12.2,"1,890","1,887",0.2,-6.2,-0.3,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Misd. Assault,10,7,42.9,57,50,14.0,621,571,8.8,24.0,39.2,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,3,0,***.*,10,11,-9.1,82,70,17.1,41.4,36.7,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct North
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,1,1,0.0,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,2,0,***.*,9,3,200.0,-18.2,12.5,-35.7,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,0,***.*,6,4,50.0,62,48,29.2,5.1,10.7,-89.8,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,5,-100.0,3,9,-66.7,70,69,1.4,62.8,32.1,-55.4,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Burglary,2,2,0.0,3,7,-57.1,81,95,-14.7,-31.4,-11.0,-93.2,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,18,26,-30.8,62,75,-17.3,709,695,2.0,14.5,-1.9,-67.9,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,1,-100.0,1,1,0.0,26,40,-35.0,-13.3,-13.3,-95.8,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,TOTAL,22,34,-35.29,77,96,-19.79,958,951,0.74,8.86,-0.31,-80.01,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Transit,1,4,-75.0,1,5,-80.0,36,55,-34.5,5.9,5.9,***.*,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,11,8,37.5,43,39,10.3,676,579,16.8,6.8,11.6,***.*,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,6,7,-14.3,20,22,-9.1,225,200,12.5,-5.5,0.9,***.*,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,2,2,0.0,5,7,-28.6,53,56,-5.4,15.2,29.3,***.*,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,***.*,-100.0,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,***.*,-100.0,23,50,Bill de Blasio,James P. O誰eill,17th Precinct
+  12/12/2016,  12/18/2016,Murder,1,0,***.*,1,0,***.*,2,7,-71.4,***.*,***.*,-80.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,2,1,100.0,15,13,15.4,25.0,-11.8,-62.5,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Robbery,2,6,-66.7,19,18,5.6,194,211,-8.1,14.8,19.8,-92.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Fel. Assault,6,6,0.0,12,17,-29.4,174,174,0.0,9.4,-3.3,-73.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Burglary,2,6,-66.7,26,21,23.8,248,296,-16.2,-8.5,-26.2,-90.4,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Gr. Larceny,52,62,-16.1,189,187,1.1,"2,017","1,968",2.5,1.6,-9.1,-77.8,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,G.L.A.,2,1,100.0,2,1,100.0,23,27,-14.8,-8.0,4.5,-93.3,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,TOTAL,65,81,-19.75,251,245,2.45,"2,673","2,696",-0.85,1.95,-8.99,-82.34,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Transit,4,5,-20.0,16,14,14.3,182,141,29.1,36.8,25.5,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Petit Larceny,30,76,-60.5,203,297,-31.6,"3,201","3,712",-13.8,-18.7,-31.5,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Misd. Assault,8,17,-52.9,50,41,22.0,637,605,5.3,16.7,8.1,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,4,-75.0,11,13,-15.4,170,184,-7.6,37.1,-3.4,***.*,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Shooting Vic.,1,0,***.*,2,0,***.*,2,4,-50.0,***.*,-50.0,-75.0,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Shooting Inc.,1,0,***.*,2,0,***.*,2,2,0.0,***.*,-33.3,-71.4,23,50,Bill de Blasio,James P. O誰eill,Midtown Precinct South
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,2,2,0.0,***.*,-33.3,-66.7,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Rape,1,0,***.*,2,3,-33.3,22,19,15.8,83.3,69.2,4.8,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,3,-33.3,9,7,28.6,111,141,-21.3,-20.7,-39.3,-89.2,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,7,-42.9,14,15,-6.7,160,193,-17.1,-7.0,13.5,-45.0,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Burglary,7,8,-12.5,14,24,-41.7,175,235,-25.5,-28.0,-28.6,-89.0,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,28,27,3.7,114,112,1.8,"1,317","1,360",-3.2,-4.8,-8.0,-50.8,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,0,1,-100.0,24,58,-58.6,-51.0,-55.6,-98.1,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,TOTAL,42,45,-6.67,153,162,-5.56,"1,811","2,008",-9.81,-9.40,-12.55,-73.58,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Transit,3,1,200.0,7,6,16.7,95,97,-2.1,28.4,26.7,***.*,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Housing,1,1,0.0,2,2,0.0,11,18,-38.9,57.1,-35.3,***.*,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,36,27,33.3,134,120,11.7,"1,828","1,860",-1.7,0.1,1.5,***.*,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,9,10,-10.0,37,30,23.3,386,465,-17.0,-6.1,-4.7,***.*,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,3,-66.7,3,6,-50.0,103,91,13.2,17.0,33.8,***.*,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,7,5,40.0,133.3,133.3,-30.0,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,4,3,33.3,100.0,100.0,-60.0,23,50,Bill de Blasio,James P. O誰eill,13th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,9,11,-18.2,28.6,0.0,-65.4,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,1,0.0,5,7,-28.6,92,98,-6.1,8.2,-17.9,-84.6,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,1,-100.0,8,8,0.0,94,101,-6.9,-10.5,-28.2,-61.0,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Burglary,0,2,-100.0,6,4,50.0,76,70,8.6,10.1,-21.6,-87.7,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,8,62.5,56,37,51.4,700,709,-1.3,0.9,11.1,-12.3,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,1,-100.0,1,2,-50.0,31,31,0.0,-6.1,-22.5,-93.6,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,TOTAL,14,13,7.69,76,59,28.81,"1,002","1,021",-1.86,0.91,-1.76,-63.90,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Transit,0,1,-100.0,3,1,200.0,17,19,-10.5,0.0,6.3,***.*,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Housing,1,0,***.*,6,4,50.0,58,45,28.9,34.9,34.9,***.*,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,9,19,-52.6,49,49,0.0,688,705,-2.4,-18.7,-16.4,***.*,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,13,5,160.0,37,24,54.2,337,292,15.4,30.1,5.0,***.*,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,0,***.*,2,2,0.0,35,28,25.0,150.0,75.0,***.*,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,2,1,100.0,100.0,-60.0,-81.8,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,2,1,100.0,100.0,-33.3,-81.8,23,50,Bill de Blasio,James P. O誰eill,10th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,5,1,400.0,150.0,25.0,-70.6,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,0,***.*,10,19,-47.4,-52.4,-28.6,-72.2,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,7,-85.7,11,19,-42.1,147,130,13.1,37.4,-20.5,-84.7,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,4,6,-33.3,14,12,16.7,176,124,41.9,15.8,20.5,-68.6,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Burglary,2,2,0.0,8,9,-11.1,105,129,-18.6,-23.4,-50.5,-88.5,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,15,13,15.4,80,65,23.1,927,856,8.3,9.2,24.3,-43.3,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,1,0,***.*,5,3,66.7,43,44,-2.3,38.7,-8.5,-91.9,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,TOTAL,23,28,-17.86,118,108,9.26,"1,413","1,303",8.44,8.78,4.36,-69.66,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,2,0,***.*,16,7,128.6,-23.8,-27.3,***.*,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Housing,2,1,100.0,9,4,125.0,132,105,25.7,12.8,21.1,***.*,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,24,26,-7.7,79,94,-16.0,"1,154","1,244",-7.2,-11.6,-32.0,***.*,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,10,13,-23.1,25,33,-24.2,465,412,12.9,15.4,2.0,***.*,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,2,-100.0,3,2,50.0,54,33,63.6,116.0,116.0,***.*,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,2,0,***.*,8,6,33.3,166.7,33.3,-71.4,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,2,0,***.*,8,6,33.3,166.7,33.3,-65.2,23,50,Bill de Blasio,James P. O誰eill,9th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,1,1,0.0,***.*,0.0,-90.0,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,1,-100.0,17,9,88.9,183.3,54.5,-15.0,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,5,-60.0,8,9,-11.1,124,102,21.6,9.7,-4.6,-84.5,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,5,1,400.0,6,10,-40.0,138,136,1.5,-4.8,11.3,-36.7,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Burglary,3,3,0.0,4,10,-60.0,53,81,-34.6,3.9,-46.5,-86.1,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,11,11,0.0,33,37,-10.8,419,395,6.1,12.9,48.6,-5.0,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,1,-100.0,2,2,0.0,33,25,32.0,13.8,-29.8,-91.4,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,TOTAL,21,21,0.00,53,69,-23.19,785,749,4.81,9.79,13.11,-65.16,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Transit,3,1,200.0,3,1,200.0,29,23,26.1,107.1,70.6,***.*,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Housing,3,2,50.0,8,12,-33.3,153,156,-1.9,9.3,17.7,***.*,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,14,10,40.0,59,48,22.9,630,549,14.8,13.3,-12.6,***.*,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,9,13,-30.8,38,31,22.6,460,369,24.7,41.1,44.7,***.*,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,0,***.*,0,4,-100.0,24,31,-22.6,100.0,71.4,***.*,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,6,2,200.0,200.0,-14.3,-68.4,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,4,2,100.0,100.0,0.0,-75.0,23,50,Bill de Blasio,James P. O誰eill,7th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,0,***.*,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,1,0,***.*,15,8,87.5,36.4,15.4,25.0,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Robbery,2,2,0.0,15,8,87.5,118,108,9.3,25.5,-18.6,-85.9,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,7,4,75.0,10,7,42.9,108,95,13.7,-11.5,16.1,-64.1,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Burglary,2,6,-66.7,6,21,-71.4,99,147,-32.7,-37.7,-43.1,-87.4,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,21,30,-30.0,69,94,-26.6,960,"1,095",-12.3,-12.3,-6.3,-61.6,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,2,-100.0,0,3,-100.0,33,30,10.0,-26.7,-23.3,-95.6,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,TOTAL,32,44,-27.27,101,133,-24.06,"1,333","1,483",-10.11,-12.76,-10.78,-74.36,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Transit,1,0,***.*,2,2,0.0,48,45,6.7,-2.0,-4.0,***.*,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,28,37,-24.3,99,95,4.2,"1,203","1,397",-13.9,-4.0,-15.9,***.*,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,1,10,-90.0,19,31,-38.7,355,354,0.3,19.5,40.9,***.*,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,2,4,-50.0,49,35,40.0,75.0,133.3,***.*,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,1,-100.0,0,1,-100.0,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,1,-100.0,0,1,-100.0,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,6th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,1,-100.0,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,0,***.*,7,11,-36.4,40.0,-30.0,-41.7,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Robbery,1,2,-50.0,5,7,-28.6,98,93,5.4,40.0,-4.9,-87.7,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,1,3,-66.7,14,12,16.7,181,163,11.0,7.7,39.2,-38.6,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Burglary,3,6,-50.0,6,13,-53.8,73,83,-12.0,-23.2,-40.7,-90.3,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,11,9,22.2,55,41,34.1,556,540,3.0,6.5,-2.3,-63.8,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,0,0,***.*,10,20,-50.0,-61.5,-28.6,-97.0,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,TOTAL,16,20,-20.00,80,73,9.59,925,911,1.54,4.28,-2.63,-75.21,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Transit,0,2,-100.0,5,6,-16.7,62,52,19.2,10.7,1.6,***.*,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,3,5,-40.0,49,39,25.6,32.4,22.5,***.*,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,20,26,-23.1,71,73,-2.7,877,924,-5.1,-16.8,-28.0,***.*,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,3,3,0.0,14,24,-41.7,331,314,5.4,24.4,21.7,***.*,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,1,3,-66.7,4,7,-42.9,36,58,-37.9,44.0,12.5,***.*,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,0,2,-100.0,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,0,2,-100.0,-100.0,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,5th Precinct
+  12/12/2016,  12/18/2016,Murder,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Rape,0,0,***.*,0,0,***.*,9,7,28.6,12.5,125.0,-18.2,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Robbery,0,3,-100.0,4,7,-42.9,58,75,-22.7,23.4,-37.6,-93.1,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Fel. Assault,0,0,***.*,3,4,-25.0,75,84,-10.7,4.2,10.3,-57.4,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Burglary,1,9,-88.9,3,14,-78.6,110,130,-15.4,-22.0,-34.1,-87.4,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Gr. Larceny,13,34,-61.8,70,91,-23.1,"1,034","1,064",-2.8,17.4,-0.2,-72.5,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,G.L.A.,0,0,***.*,5,1,400.0,50,21,138.1,61.3,31.6,-94.3,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,TOTAL,14,46,-69.57,85,117,-27.35,"1,336","1,382",-3.33,13.22,-5.11,-79.59,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Transit,0,3,-100.0,7,8,-12.5,86,80,7.5,32.3,26.5,***.*,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Petit Larceny,46,42,9.5,177,144,22.9,"1,929","1,712",12.7,6.3,17.6,***.*,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Misd. Assault,7,7,0.0,23,19,21.1,356,264,34.8,31.4,37.5,***.*,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Misd. Sex Crimes,0,1,-100.0,5,4,25.0,46,30,53.3,39.4,100.0,***.*,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Shooting Vic.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
+  12/12/2016,  12/18/2016,Shooting Inc.,0,0,***.*,0,0,***.*,0,1,-100.0,***.*,-100.0,-100.0,23,50,Bill de Blasio,James P. O誰eill,1st Precinct
